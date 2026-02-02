@@ -1,0 +1,29 @@
+title: Awenturyn
+description: Publiczny commons pojęciowy o sposobach działania zespołów bez biurokracji i bez kultu metryk.
+url: https://awenturyn.org
+baseurl: ""
+lang: pl
+timezone: Europe/Warsaw
+permalink: pretty
+
+theme: aventurine-theme
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - docs
+  - scripts
+  - .githooks
+  - .bundle
+  - .jekyll-cache
+  - _site
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .ruby-version
+  - .mdlrc

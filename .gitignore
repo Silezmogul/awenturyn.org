@@ -1,0 +1,11 @@
+# Artefakty budowania (Jekyll)
+_site/
+.jekyll-cache/
+.bundle/
+vendor/
+
+# Hooki lokalne i narzedzia
+.githooks/
+
+# Dokumentacja robocza
+docs/
