@@ -1,5 +1,7 @@
-PATH
-  remote: ../aventurine-theme
+GIT
+  remote: https://github.com/Silezmogul/aventurine-theme.git
+  revision: a76baf5b579ee3f5e8c854318a5b7b47637cfa09
+  ref: a76baf5
   specs:
     aventurine-theme (0.1.0)
       jekyll (>= 4.3, < 5.0)
