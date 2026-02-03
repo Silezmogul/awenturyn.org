@@ -1,5 +1,5 @@
 ---
-title: Awenturyn
+title: Awenturyn.org
 lang: pl
 ---
 
