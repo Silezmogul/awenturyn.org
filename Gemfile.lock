@@ -1,3 +1,9 @@
+PATH
+  remote: ../aventurine-theme
+  specs:
+    aventurine-theme (0.1.0)
+      jekyll (>= 4.3, < 5.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -206,6 +212,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  aventurine-theme!
   html-proofer (~> 5.0)
   jekyll (~> 4.3)
   jekyll-feed (~> 0.17)
@@ -217,6 +224,7 @@ CHECKSUMS
   addressable (2.8.8) sha256=7c13b8f9536cf6364c03b9d417c19986019e28f7c00ac8132da4eb0fe393b057
   afm (1.0.0) sha256=5bd4d6f6241e7014ef090985ec6f4c3e9745f6de0828ddd58bc1efdd138f4545
   async (2.36.0) sha256=090623f4c65706664355c9efa6c7bfb86771a513e65cd681c51cb27747530550
+  aventurine-theme (0.1.0)
   base64 (0.3.0) sha256=27337aeabad6ffae05c265c450490628ef3ebd4b67be58257393227588f5a97b
   benchmark (0.5.0) sha256=465df122341aedcb81a2a24b4d3bd19b6c67c1530713fd533f3ff034e419236c
   bigdecimal (3.3.1) sha256=eaa01e228be54c4f9f53bf3cc34fe3d5e845c31963e7fcc5bedb05a4e7d52218

@@ -10,13 +10,14 @@ Od daty publikacji "Pracować inaczej" / "Reinventing Organizations" Frederica L
 Turkus w znaczeniu organizacyjnym stał się całkiem znanym symbolem. W teorii organizacji, które odchodzą od własnościowej sprawczości, hierarchii i realizacji z góry ustalonych planów. 
 
 W praktyce turkus dla wielu osób znaczy coś innego.
-    - Dla części osób to drogi eksperyment, probowały wdrożyć turkus i na tym straciły.
-    - Dla części osób to "niedoskonały ideał", który w teorii brzmi fajnie ale w praktyce się nie spradza. 
-    - Dla części osób to argument by robić to, co działa. Tak, jak umią działać. By nie robić tak, jak nie umią działać.
-    - Dla części osób to zmiany w organizacji o których nikt nie mówił w trakcie nawiązywania współpracy i lata wcześniejszej pracy.
-    - Dla części osób to wehikuł na własny interes, marketing, zarobek, nawet właśność jako znak towarowy.
-    - Dla części osób to niespełniona obietnica. Zawód i ból związany z niemymi hierarchiami, argumentem podniesionego głosu, osobistych interesów, czy braku zaangażowania.
-    - Dla części osób to unicorny przez lata zarabiające miliony, które nie zwalniają w przeciwieństwie do klasycznych korporacji porównywalnych wiekiem i rozmiarem.
+
+- Dla części osób to drogi eksperyment, probowały wdrożyć turkus i na tym straciły.
+- Dla części osób to "niedoskonały ideał", który w teorii brzmi fajnie ale w praktyce się nie spradza. 
+- Dla części osób to argument by robić to, co działa. Tak, jak umią działać. By nie robić tak, jak nie umią działać.
+- Dla części osób to zmiany w organizacji o których nikt nie mówił w trakcie nawiązywania współpracy i lata wcześniejszej pracy.
+- Dla części osób to wehikuł na własny interes, marketing, zarobek, nawet właśność jako znak towarowy.
+- Dla części osób to niespełniona obietnica. Zawód i ból związany z niemymi hierarchiami, argumentem podniesionego głosu, osobistych interesów, czy braku zaangażowania.
+- Dla części osób to unicorny przez lata zarabiające miliony, które nie zwalniają w przeciwieństwie do klasycznych korporacji porównywalnych wiekiem i rozmiarem.
 
 Przez te 12 lat Turkus stał się hasłem omijanym przez większość, przez główny nurt.
 
@@ -49,12 +50,12 @@ Turkus to symbol zmiany organizacji. Kamień jest symbolem niezmienności, równ
 
 Awenturyczne migotanie oznacza błyszczenie poszczególnych płatków w szlachetny sposób, na różne kolory, w niezmiennym kamieniu. 
 
-Awięc, nieprzypadkowo, awenturyn w kontekście organizacyjnym oznacza szlachetne, wielokolorowe, zrównoważone migotanie i szczęście osób w organizacji, która jak awenturynowy kamień, nie musiała się zmienić w coś, czym nie jest, aby wspólnie lśnić.
+Awięc, nieprzypadkowo, awenturyn w kontekście organizacyjnym to dla mnie szlachetne, wielokolorowe, zrównoważone migotanie i szczęście osób w organizacji, która jak awenturynowy kamień, nie musiała się zmienić w coś, czym nie jest, aby wspólnie lśnić.
 
 
 ## Awenturyn
 
-Awenturyn jako poziom ma swoje miejsce przed turkusem inspirując się książką Pracować Inaczej, AQAL czy Dynamiką Spiralną. Opisuje warunki strukturalne i praktyczne, które muszą zaistnieć razem z granicami u osoby lub klasycznej organizacji, zanim możliwe stanie się sensowne rozważanie wdrażania rewolucyjnych struktur turkusowych. Nie skupia się tylko na korzystaniu z różnych poziomów, nie zakłada własności pracowniczej ani nie definiuje „celu ewolucyjnego”. Awenturyn dba o systemową równowagę, konstruktywne i etyczne granice wszystkich naturalnie funkcjonujących narzędzi, bez ich odrzucania.
+Awenturyn jako poziom widzę przed turkusem inspirując się książką Pracować Inaczej, AQAL czy Dynamiką Spiralną. Opisuje warunki strukturalne i praktyczne, które muszą zaistnieć razem z granicami u osoby lub klasycznej organizacji, zanim możliwe stanie się sensowne rozważanie wdrażania rewolucyjnych struktur turkusowych. Nie skupia się tylko na korzystaniu z różnych poziomów, nie zakłada własności pracowniczej ani nie definiuje „celu ewolucyjnego”. Awenturyn dba o systemową równowagę, konstruktywne i etyczne granice wszystkich naturalnie funkcjonujących narzędzi, bez ich odrzucania.
 
 ## Zieleń, Awenturyn a Turkus
 
@@ -105,7 +106,7 @@ Sebastian Rudnicki pracuje na styku organizacji, struktur i biznesu. Jego podej�
 Sebastian Rudnicki jako pierwszy opisał Awenturyn w roku 2026 jako rozwiązanie na wdrożeniową przepaść między autentycznym, funkcjonującym wewnętrznie turkusem a klasycznymi i progresywnymi organizacjami, bez rewolucji.
 
 
-######
+___
 Strona: © Sebastian Rudnicki
 Autor: © Sebastian Rudnicki
 Licencja: Creative Commons Attribution 4.0 (CC BY 4.0)
