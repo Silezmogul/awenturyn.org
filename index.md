@@ -11,7 +11,7 @@ Słusznie, turkus jest tylko dla wąskiego grona. Słusznie, turkus ma bardzo ni
 
 W Książce Laloux'a jest więcej niż turkus ale tylko turkus jest tak poruszany w głównym nurcie. Nawet jeśli inne etapy miałyby bardziej fantazyjne nazwy, problem marki byłby rozwiązany, ale problem adopcyjny nie. Adopcjyjność turkusu sama w sobie jest problemem, nie trzeba "stawać się bardziej turkusowym" by korzystać z tego modelu bo turkus jest na nim tylko kropką a nie celem.
 
-Dlatego główną przyczyna problemu turkusu to brakujące ogniwo modelu o umikalnej nazwie. Ogniwo, które jest "W typie" większości, z którym miło jest się identyfikować. Ogniwo które nie zmienia klasycznych organizacji ale zmniejsza ilość strat i błędów w klasycznej organizacji.
+Dlatego główną przyczyna problemu turkusu to brakujące ogniwo modelu o umikalnej nazwie. Ogniwo, które jest "W typie" większości, z którym miło jest się identyfikować. Ogniwo, które nie zmienia klasycznych organizacji ale zmniejsza ilość strat i błędów w klasycznej organizacji.
 
 ## Niemy problem Turkusu pod lupą
 
@@ -22,7 +22,7 @@ W praktyce turkus dla wielu osób znaczy coś innego.
 - Dla części osób to drogi eksperyment, probowały wdrożyć turkus i na tym straciły.
 - Dla części osób to "niedoskonały ideał", który w teorii brzmi fajnie ale w praktyce się nie spradza. 
 - Dla części osób to argument by robić to, co działa. Tak, jak umią działać. By nie robić tak, jak nie umią działać.
-- Dla części osób to zmiany w organizacji o których nikt nie mówił w trakcie nawiązywania współpracy i lata wcześniejszej pracy.
+- Dla części osób to zmiany w organizacji, o których nikt nie mówił w trakcie nawiązywania współpracy i lata wcześniejszej pracy.
 - Dla części osób to wehikuł na własny interes, marketing, zarobek, nawet właśność jako znak towarowy.
 - Dla części osób to niespełniona obietnica. Zawód i ból związany z niemymi hierarchiami, argumentem podniesionego głosu, osobistych interesów, czy braku zaangażowania.
 
@@ -54,7 +54,7 @@ Tą równowagę granic, pracę nad granicami z wykorzystaniem wszystkich natural
 
 "Awenturyn"(Ang. Aventurine) pochodzi od włoskiego wyrażenia a ventura lub all'avventura, co oznacza „przez przypadek”. Odnosi się do przypadkowego odkrycia pięknego migoczącego szkła powstałego w wyniku zmieszania szkła z opiłkami miedzi. 
 
-Awenturyzacja to nazwa na jeden ze sposobów w jaki kamienie szlachetne lub szkło zawdzięczają swój efekt migotania. Awenturyn to również odmiana kwarcu która migocze w podobny sposób. Występuje w różnych barwach, również w kolorze żółtym.
+Awenturyzacja to nazwa na jeden ze sposobów w jaki kamienie szlachetne lub szkło zawdzięczają swój efekt migotania. Awenturyn to również odmiana kwarcu, która migocze w podobny sposób. Występuje w różnych barwach, również w kolorze żółtym.
 
 Turkus to symbol zmiany organizacji. Kamień jest symbolem niezmienności, również symbolem tego, że organizacja nie musi się zmieniać. 
 
@@ -71,7 +71,7 @@ Nie skupia się tylko na korzystaniu z różnych poziomów, tak, jak mówi o tym
 
 ## Zieleń, Awenturyn a Turkus
 
-Zieleń to ekologia, bezpieczeństwo psychologiczne, konsensus i proklienckość. Jak i przekraczanie etycznych granic, uświęcając środki celem. W swojej inkluzywności ostracyzm, odrzucenie osób który myślą i funkcjonują inaczej. Lub gdy ekologia staje się mechanizmem deprawacji suwerenności energetycznej wybranych państw.
+Zieleń to ekologia, bezpieczeństwo psychologiczne, konsensus i proklienckość. Jak i przekraczanie etycznych granic, uświęcając środki celem. W swojej inkluzywności ostracyzm, odrzucenie osób, które myślą i funkcjonują inaczej. Lub gdy ekologia staje się mechanizmem deprawacji suwerenności energetycznej wybranych państw.
 
 Awenturyn to świadoma praca nad tym co jest etyczne w zieleni a co już nie. Co jest etyczne w pomarańczu a co już nie. Czyli nie granice między poziomami i godzenie poziomów a granice wewnątrz poziomów.
 
@@ -82,9 +82,9 @@ Turkus to zmiana paradygmatu organizacji klasycznych i progresywnych do holokrac
 
 Organizacja, która korzysta w zrównoważonej formie z bezpieczeństwa, motywacji, struktury, zysku, mechanizmów społecznych i konkurencyjności ale i chroni organizacje od ich niezdrowych skrajności oraz walki między aspektami, w sposób systemowy.
 
-Organizacja która swoją kulturą pomaga pracownikom korzystać z różnych aspektów ale przede wszystkim znać ich granice.
+Organizacja, która swoją kulturą pomaga pracownikom korzystać z różnych aspektów ale przede wszystkim znać ich granice.
 
-Organizacja która usprawnia swój system i kulturę, nagradza osoby które się w tym doskonalą. Kapitalizuje równowagę i holistyczny zysk.
+Organizacja, która usprawnia swój system i kulturę, nagradza osoby, które się w tym doskonalą. Kapitalizuje równowagę i holistyczny zysk.
 
 ## Osoba Awenturynowa
 
