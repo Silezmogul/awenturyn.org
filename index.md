@@ -5,7 +5,7 @@ lang: pl
 
 ## Brakujące ogniwo
 
-Od daty publikacji "Pracować inaczej" / "Reinventing Organizations" Frederica Laloux'a minęło 12 lat. Przez lata popularyzacji turkus stał się bardzo silnym, znanym hasłem. ale i hasłem unikanym. Dlatego, że to "nie czyjś typ" organizacji. Dlagego, że u innych nie działa i to pewnie odklejony od rzeczywistości model.
+Od daty publikacji "Pracować inaczej" / "Reinventing Organizations" Frederica Laloux'a minęło 12 lat. Przez lata popularyzacji turkus stał się bardzo silnym, znanym hasłem, ale i hasłem unikanym. Dlatego, że to "nie czyjś typ" organizacji. Dlagego, że u innych nie działa i to pewnie odklejony od rzeczywistości model.
 
 Słusznie, turkus jest tylko dla wąskiego grona. Słusznie, turkus ma bardzo niski sukces adopcyjny. Ale według mnie to nie jest główna przyczyna. 
 
@@ -102,9 +102,6 @@ Mnoży współpracę, nie budując konkurencji wewnętrznej.
 
 Korzysta z różnych poziomów narzędziowo, bez wywyższania własnego etapu lub deprecjonowania innych. 
 
-## Awenturyn w obecnych czasach
-
-Jako społeczeństwo wytykamy błędy innych, dzielimy się. Awenturyn jest brakującym ogniwem, sposobem na rekalibracje i zgranie tego jak wspólnie rozumiemy i optymalizujemy błędy. 
 
 
 ## Awenturyn jako przestrzeń do rozmów
