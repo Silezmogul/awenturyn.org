@@ -6,6 +6,7 @@ lang: pl
 timezone: Europe/Warsaw
 permalink: pretty
 author: Sebastian Rudnicki
+og_image: /assets/og.png
 
 theme: aventurine-theme
 
