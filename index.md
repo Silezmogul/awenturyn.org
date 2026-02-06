@@ -5,13 +5,13 @@ lang: pl
 
 ## Brakujące ogniwo
 
-Od daty publikacji "Pracować inaczej" / "Reinventing Organizations" Frederica Laloux'a minęło 12 lat. Przez lata popularyzacji turkus stał się bardzo silnym, znanym hasłem, ale i hasłem unikanym. Dlatego, że to "nie czyjś typ" organizacji. Dlagego, że u innych nie działa i to pewnie odklejony od rzeczywistości model.
+Od daty publikacji "Pracować inaczej" / "Reinventing Organizations" Frederica Laloux'a minęło 12 lat. Przez lata popularyzacji turkus stał się bardzo silnym, znanym hasłem, ale i hasłem unikanym. Dlatego, że to "nie czyjś typ" organizacji. Dlatego, że u innych nie działa i to pewnie odklejony od rzeczywistości model.
 
 Słusznie, turkus jest tylko dla wąskiego grona. Słusznie, turkus ma bardzo niski sukces adopcyjny. Ale według mnie to nie jest główna przyczyna. 
 
 W Książce Laloux'a jest więcej niż turkus ale tylko turkus jest tak poruszany w głównym nurcie. Nawet jeśli inne etapy miałyby bardziej fantazyjne nazwy, problem marki byłby rozwiązany, ale problem adopcyjny nie. Adopcjyjność turkusu sama w sobie jest problemem, nie trzeba "stawać się bardziej turkusowym" by korzystać z tego modelu bo turkus jest na nim tylko kropką a nie celem.
 
-Dlatego główną przyczyna problemu turkusu to brakujące ogniwo modelu o umikalnej nazwie. Ogniwo, które jest "W typie" większości, z którym miło jest się identyfikować. Ogniwo, które nie zmienia klasycznych organizacji ale zmniejsza ilość strat i błędów w klasycznej organizacji.
+Dlatego główną przyczyna problemu turkusu to brakujące ogniwo modelu o unikalnej nazwie. Ogniwo, które jest "W typie" większości, z którym miło jest się identyfikować. Ogniwo, które nie zmienia klasycznych organizacji ale zmniejsza ilość strat i błędów w klasycznej organizacji.
 
 ## Niemy problem Turkusu pod lupą
 
@@ -35,9 +35,9 @@ Turkus przyciąga będąc interpretowanym jako ideał.
 
 Przez te wszystkie lata obserwowałem, jak byliśmy karmieni i karmiliśmy się nawzajem definicją Turkusu jako odróżnienia od innych form organizacji.
 
-Odejście od struktur i ustalenie ewolucyjnego celu okazuje się być porzywką dla chaosu, niezdrowych zachowań i strat. 
+Odejście od struktur i ustalenie ewolucyjnego celu okazuje się być pożywką dla chaosu, niezdrowych zachowań i strat. 
 
-Dlatego uważam, że najpierw jako ogół potrzebujemy umieć odpowiedzialnie korzystać z klasycznych formy organizacji.
+Dlatego uważam, że najpierw jako ogół potrzebujemy umieć odpowiedzialnie korzystać z klasycznych form organizacji.
 
 Ta odpowiedzialność i równowaga oznacza między innymi:
 Konkurowanie bez forsowania.
@@ -60,7 +60,7 @@ Turkus to symbol zmiany organizacji. Kamień jest symbolem niezmienności, równ
 
 Awenturyczne migotanie oznacza błyszczenie poszczególnych płatków w szlachetny sposób, na różne kolory, w niezmiennym kamieniu. 
 
-Awięc, nieprzypadkowo, awenturyn w kontekście organizacyjnym to dla mnie szlachetne, wielokolorowe, zrównoważone migotanie i szczęście osób w organizacji, która jak awenturynowy kamień, nie musiała się zmienić w coś, czym nie jest, aby wspólnie lśnić.
+A więc, nieprzypadkowo, awenturyn w kontekście organizacyjnym to dla mnie szlachetne, wielokolorowe, zrównoważone migotanie i szczęście osób w organizacji, która jak awenturynowy kamień, nie musiała się zmienić w coś, czym nie jest, aby wspólnie lśnić.
 
 
 ## Awenturyn
@@ -92,7 +92,7 @@ Dąży do sukcesu konstruktywnie. Nie używa przemocy, nacisku ani presji społe
 
 Dąży do zysku, nie popadając w chciwość.
 
-Korzysta ze struktur bez przywiązania do pozycji i chierarchii.
+Korzysta ze struktur bez przywiązania do pozycji i hierarchii.
 
 Używa danych odpowiedzialnie, nie czcząc ich wyższości ani nie zrzucając na nie odpowiedzialności.
 
@@ -114,7 +114,7 @@ Tekst udostępniony na licencji Creative Commons Attribution (© Sebastian Rudni
 
 ## O autorze
 
-Sebastian Rudnicki pracuje na styku organizacji, struktur i biznesu. Jego podejście powstało z wieloletniej twórczej pracy w projektach mędzy wczesnym etapem, wczesną większością oraz audytach biznesowych. Oobserwacji tego, jak organizacje realnie funkcjonują, gdzie się blokują i dlaczego deklarowane modele nie przekładają się na rzeczywistość.
+Sebastian Rudnicki pracuje na styku organizacji, struktur i biznesu. Jego podejście powstało z wieloletniej twórczej pracy w projektach między wczesnym etapem, wczesną większością oraz audytach biznesowych. Obserwacji tego, jak organizacje realnie funkcjonują, gdzie się blokują i dlaczego deklarowane modele nie przekładają się na rzeczywistość.
 
 Sebastian Rudnicki jako pierwszy opisał Awenturyn w roku 2026 jako rozwiązanie na wdrożeniową przepaść między autentycznym, funkcjonującym wewnętrznie turkusem a klasycznymi i progresywnymi organizacjami, bez rewolucji.
 
