@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/Silezmogul/aventurine-theme.git
-  revision: ce6d77b2c823f3af674d294336a017c2aab47d34
-  ref: ce6d77b2c823f3af674d294336a017c2aab47d34
+  revision: f1f42688f6c1f1d936c52f42c095473a4de43478
+  ref: f1f42688f6c1f1d936c52f42c095473a4de43478
   specs:
     aventurine-theme (0.1.0)
       jekyll (>= 4.3, < 5.0)
