@@ -9,6 +9,9 @@ author: Sebastian Rudnicki
 
 theme: aventurine-theme
 
+plugins:
+  - jekyll-sitemap
+
 defaults:
   - scope:
       path: ""

@@ -3,7 +3,7 @@ title: Awenturyn.org
 lang: pl
 ---
 
-## Brakujące ogniwo
+# Brakujące ogniwo
 
 Od daty publikacji "Pracować inaczej" / "Reinventing Organizations" Frederica Laloux'a minęło 12 lat. Przez lata popularyzacji turkus stał się bardzo silnym, znanym hasłem, ale i hasłem unikanym. Dlatego, że to "nie czyjś typ" organizacji. Dlatego, że u innych nie działa i to pewnie odklejony od rzeczywistości model.
 
@@ -11,7 +11,7 @@ Słusznie, turkus jest tylko dla wąskiego grona. Słusznie, turkus ma bardzo ni
 
 W Książce Laloux'a jest więcej niż turkus ale tylko turkus jest tak poruszany w głównym nurcie. Nawet jeśli inne etapy miałyby bardziej fantazyjne nazwy, problem marki byłby rozwiązany, ale problem adopcyjny nie. Adopcjyjność turkusu sama w sobie jest problemem, nie trzeba "stawać się bardziej turkusowym" by korzystać z tego modelu bo turkus jest na nim tylko kropką a nie celem.
 
-Dlatego główną przyczyna problemu turkusu to brakujące ogniwo modelu o unikalnej nazwie. Ogniwo, które jest "W typie" większości, z którym miło jest się identyfikować. Ogniwo, które nie zmienia klasycznych organizacji ale zmniejsza ilość strat i błędów w klasycznej organizacji.
+Dlatego główną przyczyna problemu turkusu jest brakujące ogniwo modelu o unikalnej nazwie. Ogniwo, które jest "W typie" większości, z którym miło jest się identyfikować. Ogniwo, które nie zmienia klasycznych organizacji ale zmniejsza ilość strat i błędów w klasycznej organizacji.
 
 ## Niemy problem Turkusu pod lupą
 
