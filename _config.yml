@@ -1,10 +1,11 @@
 title: Awenturyn
-description: Publiczny commons pojęciowy o sposobach działania zespołów bez biurokracji i bez kultu metryk.
+description: Publiczna definicja organizacji Awenturynowej oraz Awenturynu w kontekście organizacyjnym.
 url: https://awenturyn.org
 baseurl: ""
 lang: pl
 timezone: Europe/Warsaw
 permalink: pretty
+author: Sebastian Rudnicki
 
 theme: aventurine-theme
 
