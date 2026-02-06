@@ -108,7 +108,7 @@ Korzysta z różnych poziomów narzędziowo, bez wywyższania własnego etapu lu
 
 Uważam, że formy takie jak Turkus czy Awenturyn w odniesieniu do organizacji powinny funkcjonować w przestrzeni publicznej, nie jako prywatny znak towarowy. 
 
-Dlatego publikuję powyższą treść oraz definicję awenturynu, poziomu awenturynowego i organizacji awenturynowej w wielu językach jako dobro wspólne, dostępne do swobodnego użycia i dalszego rozwijania, z zachowaniem informacji o autorze.
+Dlatego publikuję powyższą treść oraz definicję awenturynu, poziomu awenturynowego i organizacji awenturynowej w wielu językach jako dobro wspólne, dostępne do swobodnego użycia, z zachowaniem informacji o autorze.
 Tekst udostępniony na licencji Creative Commons Attribution (© Sebastian Rudnicki CC BY 4.0).
 
 
