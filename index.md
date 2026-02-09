@@ -24,7 +24,7 @@ Słusznie, turkus jest tylko dla wąskiego grona. Słusznie, turkus ma bardzo ni
 
 W Książce Laloux'a jest więcej niż turkus ale tylko turkus jest tak poruszany w głównym nurcie. Nawet jeśli inne etapy miałyby bardziej fantazyjne nazwy, problem marki byłby rozwiązany, ale problem adopcyjny nie. Adopcjyjność turkusu sama w sobie jest problemem, nie trzeba "stawać się bardziej turkusowym" by korzystać z tego modelu bo turkus jest na nim tylko kropką a nie celem.
 
-Dlatego główną przyczyna problemu turkusu jest brakujące ogniwo modelu o unikalnej nazwie. Ogniwo, które jest "W typie" większości, z którym miło jest się identyfikować. Ogniwo, które nie zmienia klasycznych organizacji ale zmniejsza ilość strat i błędów w klasycznej organizacji.
+Dlatego główną przyczyna problemu turkusu jest brakujące ogniwo modelu o unikalnej nazwie. Ogniwo, które jest "W typie" większości, z którym miło jest się identyfikować. Ogniwo, które nie wymaga zmiany sposobu zarządzania, ale zmniejsza ilość strat i błędów w klasycznej organizacji.
 
 ## Różne interpretacje Turkusu w praktyce
 
@@ -36,7 +36,6 @@ W praktyce turkus dla wielu osób znaczy coś innego.
 - Dla części osób to "niedoskonały ideał", który w teorii brzmi fajnie ale w praktyce się nie spradza. 
 - Dla części osób to argument by robić to, co działa. Tak, jak umią działać. By nie robić tak, jak nie umią działać.
 - Dla części osób to zmiany w organizacji, o których nikt nie mówił w trakcie nawiązywania współpracy i lata wcześniejszej pracy.
-- Dla części osób to wehikuł na własny interes, marketing, zarobek, nawet właśność jako znak towarowy.
 - Dla części osób to niespełniona obietnica. Zawód i ból związany z niemymi hierarchiami, argumentem podniesionego głosu, osobistych interesów, czy braku zaangażowania.
 
 Przez te 12 lat Turkus stał się hasłem omijanym.
@@ -50,7 +49,7 @@ Przez te wszystkie lata obserwowałem, jak byliśmy karmieni i karmiliśmy się 
 
 Odejście od struktur i ustalenie ewolucyjnego celu okazuje się być pożywką dla chaosu, niezdrowych zachowań i strat. 
 
-Dlatego uważam, że najpierw jako ogół potrzebujemy umieć odpowiedzialnie korzystać z klasycznych form organizacji.
+Dlatego uważam, że najpierw jako ogół potrzebujemy umieć odpowiedzialnie korzystać z klasycznych form zarządzania i organizacji pracy.
 
 Ta odpowiedzialność i równowaga oznacza między innymi:
 Konkurowanie bez forsowania.
@@ -76,9 +75,9 @@ Awenturyczne migotanie oznacza błyszczenie poszczególnych płatków w szlachet
 A więc, nieprzypadkowo, awenturyn w kontekście organizacyjnym to dla mnie szlachetne, wielokolorowe, zrównoważone migotanie i szczęście osób w organizacji, która jak awenturynowy kamień, nie musiała się zmienić w coś, czym nie jest, aby wspólnie lśnić.
 
 
-## Awenturyn: Ramy
+## Awenturyn w organizacjach zarządzanych klasycznie, przed rozważeniem turkusu
 
-Awenturyn jako poziom widzę przed turkusem inspirując się książką Pracować Inaczej, AQAL czy Dynamiką Spiralną. Opisuje warunki strukturalne i praktyczne, które muszą zaistnieć razem z granicami u osoby lub klasycznej organizacji, zanim możliwe stanie się sensowne rozważanie wdrażania rewolucyjnych struktur turkusowych.
+Awenturyn jako poziom widzę przed turkusem inspirując się książką Pracować Inaczej, AQAL czy Dynamiką Spiralną. Opisuje warunki strukturalne i praktyczne, które muszą zaistnieć razem z granicami u osoby lub organizacji zarządzanej klasycznie, zanim możliwe stanie się sensowne rozważanie wdrażania rewolucyjnych struktur turkusowych.
 
 Nie skupia się tylko na korzystaniu z różnych poziomów, tak, jak mówi o tym poziom żółty. Nie zakłada własności pracowniczej ani nie definiuje „celu ewolucyjnego”. Awenturyn dba o systemową równowagę, konstruktywne i etyczne granice wszystkich naturalnie funkcjonujących narzędzi.
 
@@ -88,7 +87,7 @@ Zieleń to ekologia, bezpieczeństwo psychologiczne, konsensus i proklienckość
 
 Awenturyn to świadoma praca nad tym co jest etyczne w zieleni a co już nie. Co jest etyczne w pomarańczu a co już nie. Czyli nie granice między poziomami i godzenie poziomów a granice wewnątrz poziomów.
 
-Turkus to zmiana paradygmatu organizacji klasycznych i progresywnych do holokracji, ewolucyjnego celu czy wspólnoty pracowniczej.
+Turkus to zmiana paradygmatu organizacji zarządzanych klasycznie i progresywnych do holokracji, ewolucyjnego celu czy wspólnoty pracowniczej.
 
 
 ## Organizacja awenturynowa: praktyczne zastosowania
@@ -119,7 +118,7 @@ Korzysta z różnych poziomów narzędziowo, bez wywyższania własnego etapu lu
 
 ## Awenturyn jako publiczna przestrzeń edukacyjna
 
-Uważam, że formy takie jak Turkus czy Awenturyn w odniesieniu do organizacji powinny funkcjonować w przestrzeni publicznej, nie jako prywatny znak towarowy. 
+Uważam, że formy takie jak Awenturyn w odniesieniu do organizacji powinny funkcjonować w przestrzeni publicznej. 
 
 Dlatego publikuję powyższą treść oraz definicję awenturynu, poziomu awenturynowego i organizacji awenturynowej w wielu językach jako dobro wspólne, dostępne do swobodnego użycia, z zachowaniem informacji o autorze.
 Tekst udostępniony na licencji Creative Commons Attribution (© Sebastian Rudnicki CC BY 4.0).
@@ -129,7 +128,7 @@ Tekst udostępniony na licencji Creative Commons Attribution (© Sebastian Rudni
 
 Sebastian Rudnicki pracuje na styku organizacji, struktur i biznesu. Jego podejście powstało z wieloletniej twórczej pracy w projektach między wczesnym etapem, wczesną większością oraz audytach biznesowych. Obserwacji tego, jak organizacje realnie funkcjonują, gdzie się blokują i dlaczego deklarowane modele nie przekładają się na rzeczywistość.
 
-Sebastian Rudnicki jako pierwszy opisał Awenturyn w roku 2026 jako rozwiązanie na wdrożeniową przepaść między autentycznym, funkcjonującym wewnętrznie turkusem a klasycznymi i progresywnymi organizacjami, bez rewolucji.
+Sebastian Rudnicki jako pierwszy opisał Awenturyn w roku 2026 jako rozwiązanie na wdrożeniową przepaść między autentycznym, funkcjonującym wewnętrznie turkusem a organizacjami zarządzanymi klasycznie i progresywnymi, bez rewolucji.
 
 
 ___
