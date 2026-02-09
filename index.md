@@ -79,7 +79,9 @@ A więc, nieprzypadkowo, awenturyn w kontekście organizacyjnym to dla mnie szla
 
 Awenturyn jako poziom widzę przed turkusem inspirując się książką Pracować Inaczej, AQAL czy Dynamiką Spiralną. Opisuje warunki strukturalne i praktyczne, które muszą zaistnieć razem z granicami u osoby lub organizacji zarządzanej klasycznie, zanim możliwe stanie się sensowne rozważanie wdrażania rewolucyjnych struktur turkusowych.
 
-Nie skupia się tylko na korzystaniu z różnych poziomów, tak, jak mówi o tym poziom żółty. Nie zakłada własności pracowniczej ani nie definiuje „celu ewolucyjnego”. Awenturyn dba o systemową równowagę, konstruktywne i etyczne granice wszystkich naturalnie funkcjonujących narzędzi.
+Nie skupia się tylko na korzystaniu z różnych poziomów, tak, jak mówi o tym poziom żółty. Nie zakłada własności pracowniczej ani nie definiuje „celu ewolucyjnego”. 
+
+Awenturyn dba o systemową równowagę, konstruktywne i etyczne granice wszystkich naturalnie funkcjonujących narzędzi.
 
 ## Zieleń, Awenturyn a Turkus: porównanie poziomów
 
