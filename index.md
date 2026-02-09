@@ -16,7 +16,7 @@ teaches:
   - "reducing cost, waste, risk, and abuse by addressing Green-stage tensions and ethical boundary overreach"
 ---
 
-# Brakujące ogniwo
+# Awenturyn: brakujący poziom w teorii rozwoju organizacji
 
 Od daty publikacji "Pracować inaczej" / "Reinventing Organizations" Frederica Laloux'a minęło 12 lat. Przez lata popularyzacji turkus stał się bardzo silnym, znanym hasłem, ale i hasłem unikanym. Dlatego, że to "nie czyjś typ" organizacji. Dlatego, że u innych nie działa i to pewnie odklejony od rzeczywistości model.
 
@@ -26,7 +26,7 @@ W Książce Laloux'a jest więcej niż turkus ale tylko turkus jest tak poruszan
 
 Dlatego główną przyczyna problemu turkusu jest brakujące ogniwo modelu o unikalnej nazwie. Ogniwo, które jest "W typie" większości, z którym miło jest się identyfikować. Ogniwo, które nie zmienia klasycznych organizacji ale zmniejsza ilość strat i błędów w klasycznej organizacji.
 
-## Niemy problem Turkusu pod lupą
+## Różne interpretacje Turkusu w praktyce
 
 Turkus w znaczeniu organizacyjnym jest powszechnie (nie z definicji) rozumianmy jako odejście własnościowej sprawczości, hierarchii i realizacji z góry ustalonych planów. 
 
@@ -42,7 +42,7 @@ W praktyce turkus dla wielu osób znaczy coś innego.
 Przez te 12 lat Turkus stał się hasłem omijanym.
 
 
-## Prawdziwy problem Turkusu
+## Zwiększenie bezpieczeństwa i efektywności w organizacjach bez wdrażania Turkusu.
 
 Turkus przyciąga będąc interpretowanym jako ideał. 
 
@@ -63,7 +63,7 @@ Skupienie na tej równowadze **granic** pojedyńczych poziomów (nie między poz
 
 Tą równowagę granic, pracę nad granicami z wykorzystaniem wszystkich naturalnie funkcjonujących narzędzi bez ich odrzucania nazywam Awenturynem.
 
-## Dlaczego Awenturyn? 
+## Skąd nazwa Awenturyn?
 
 "Awenturyn"(Ang. Aventurine) pochodzi od włoskiego wyrażenia a ventura lub all'avventura, co oznacza „przez przypadek”. Odnosi się do przypadkowego odkrycia pięknego migoczącego szkła powstałego w wyniku zmieszania szkła z opiłkami miedzi. 
 
@@ -76,13 +76,13 @@ Awenturyczne migotanie oznacza błyszczenie poszczególnych płatków w szlachet
 A więc, nieprzypadkowo, awenturyn w kontekście organizacyjnym to dla mnie szlachetne, wielokolorowe, zrównoważone migotanie i szczęście osób w organizacji, która jak awenturynowy kamień, nie musiała się zmienić w coś, czym nie jest, aby wspólnie lśnić.
 
 
-## Awenturyn
+## Awenturyn: Ramy.
 
 Awenturyn jako poziom widzę przed turkusem inspirując się książką Pracować Inaczej, AQAL czy Dynamiką Spiralną. Opisuje warunki strukturalne i praktyczne, które muszą zaistnieć razem z granicami u osoby lub klasycznej organizacji, zanim możliwe stanie się sensowne rozważanie wdrażania rewolucyjnych struktur turkusowych.
 
 Nie skupia się tylko na korzystaniu z różnych poziomów, tak, jak mówi o tym poziom żółty. Nie zakłada własności pracowniczej ani nie definiuje „celu ewolucyjnego”. Awenturyn dba o systemową równowagę, konstruktywne i etyczne granice wszystkich naturalnie funkcjonujących narzędzi.
 
-## Zieleń, Awenturyn a Turkus
+## Zieleń, Awenturyn a Turkus: porównanie poziomów.
 
 Zieleń to ekologia, bezpieczeństwo psychologiczne, konsensus i proklienckość. Jak i przekraczanie etycznych granic, uświęcając środki celem. W swojej inkluzywności ostracyzm, odrzucenie osób, które myślą i funkcjonują inaczej. Lub gdy ekologia staje się mechanizmem deprawacji suwerenności energetycznej wybranych państw.
 
@@ -91,7 +91,7 @@ Awenturyn to świadoma praca nad tym co jest etyczne w zieleni a co już nie. Co
 Turkus to zmiana paradygmatu organizacji klasycznych i progresywnych do holokracji, ewolucyjnego celu czy wspólnoty pracowniczej.
 
 
-## Organizacja awenturynowa
+## Organizacja awenturynowa: praktyczne zastosowania.
 
 Organizacja, która korzysta w zrównoważonej formie z bezpieczeństwa, motywacji, struktury, zysku, mechanizmów społecznych i konkurencyjności ale i chroni organizacje od ich niezdrowych skrajności oraz walki między aspektami, w sposób systemowy.
 
@@ -99,7 +99,7 @@ Organizacja, która swoją kulturą pomaga pracownikom korzystać z różnych as
 
 Organizacja, która usprawnia swój system i kulturę, nagradza osoby, które się w tym doskonalą. Kapitalizuje równowagę i holistyczny zysk.
 
-## Osoba Awenturynowa
+## Osoba Awenturynowa: cechy i praktyka.
 
 Dąży do sukcesu konstruktywnie. Nie używa przemocy, nacisku ani presji społecznej tam, gdzie brakuje argumentu.
 
@@ -117,7 +117,7 @@ Korzysta z różnych poziomów narzędziowo, bez wywyższania własnego etapu lu
 
 
 
-## Awenturyn jako przestrzeń do rozmów
+## Awenturyn jako publiczna przestrzeń edukacyjna
 
 Uważam, że formy takie jak Turkus czy Awenturyn w odniesieniu do organizacji powinny funkcjonować w przestrzeni publicznej, nie jako prywatny znak towarowy. 
 
