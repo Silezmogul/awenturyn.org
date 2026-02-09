@@ -10,6 +10,11 @@ permalink: pretty
 author: Sebastian Rudnicki
 og_image: /assets/og.png
 
+# Schema.org disambiguation (additional metadata only)
+disambiguating_description: "Edukacyjne ramy w teorii rozwoju organizacji."
+about_topics: "teoria rozwoju organizacji|poziom Zielony|projektowanie organizacji|etyka organizacyjna|odpowiedzialność|władza i autorytet w organizacji|struktura organizacyjna|granice odpowiedzialności"
+keywords: "rozwój organizacji, teoria rozwoju organizacji, poziom Zielony, kultura organizacyjna, struktura organizacyjna, odpowiedzialność, granice odpowiedzialności, władza w organizacji, autorytet w organizacji, etyka organizacyjna"
+
 theme: aventurine-theme
 
 plugins:
