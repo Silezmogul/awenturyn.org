@@ -1,6 +1,9 @@
 ---
 title: Awenturyn.org
 lang: pl
+description: "Awenturyn brakujący poziom w teorii rozwoju organizacji, rozwiązujący kontradykcje etapu Zielonego, niezależnie od wdrożenia turkusu. Definicja i kontekst."
+og_description: "Awenturyn: brakujący poziom rozwoju organizacji. Kontradykcje etapu Zielonego - bez wdrożenia turkusu."
+schema_description: "Awenturyn to brakujący poziom rozwoju organizacji po etapie Zielonym: porządkuje etykę użycia władzy, hierarchii i odpowiedzialności, niezależnie od wdrożenia turkusu."
 ---
 
 # Brakujące ogniwo
@@ -124,4 +127,3 @@ Strona: © Sebastian Rudnicki
 Autor: © Sebastian Rudnicki
 Licencja: Creative Commons Attribution 4.0 (CC BY 4.0)
 Autor zastrzega sobie prawo do dalszego rozwijania i zmiany treści.
-

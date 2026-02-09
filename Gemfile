@@ -6,4 +6,4 @@ gem "jekyll-feed", "~> 0.17"
 gem "html-proofer", "~> 5.0"
 gem "mdl", "~> 0.12"
 
-gem "aventurine-theme", git: "https://github.com/Silezmogul/aventurine-theme.git", ref: "16e6f9b4c21a73c913079f018a187faac30bd02a"
+gem "aventurine-theme", git: "https://github.com/Silezmogul/aventurine-theme.git", ref: "a4bef49cdd569018c5844196c6f2847e49bc3b11"
