@@ -9,6 +9,7 @@ timezone: Europe/Warsaw
 permalink: pretty
 author: Sebastian Rudnicki
 og_image: /assets/og.png
+og_image_alt: "Awenturyn.org - brakujący poziom organizacji"
 
 # Schema.org disambiguation (additional metadata only)
 disambiguating_description: "Edukacyjne ramy w teorii rozwoju organizacji."
