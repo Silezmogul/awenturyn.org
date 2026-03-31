@@ -30,9 +30,9 @@ Turkus, Teal, jest finezyjną nazwą. Niebieski czy pomarańczowy, nie jest tak 
 
 Tym, co ma wpływ na szanse sukcesu wewnątrz jest np. traktowanie turkusu jako celu lub lub nie. Nie trzeba "stawać się bardziej turkusowym" by korzystać z modelu. Nie trzeba przyjmować turkusu jako programu transformacji, tożsawości własnej czy tożsamości organizacji. 
 
-Turkus na mapie modelu jest punktem, kropką a nie celem. Natomiast w kulturze biznesowej turkus stał się jedynym widzialnym celem a korzystanie z modelu nie. To znaczy, że samodoskonalenie na poziomie niebieskim czy pomarańczowym nie istnieje ale nieświadomy podział na lepsze i gorsze poziomy już tak. Mimo tego, że współczesne firmy korzystają z wielu poziomów na raz, zależnie od funkcji działu.
+Turkus na mapie modelu jest punktem, kropką a nie celem. Natomiast przez pryzmat poziomu kultury biznesowej turkus okazał się jedynym widzialnym celem a korzystanie z modelu nie. To znaczy, że wyznaczając turkusowy cel samodoskonalenie na poziomie pomarańczowym nie istnieje a nieświadomy podział na lepsze i gorsze poziomy pozostaje. Mimo tego, że współczesne firmy korzystają z wielu poziomów na raz, zależnie od funkcji działu.
 
-Dlatego główną przyczyną niskiego sukcesu turkusu jest brak punktu zaczepienia modelu na poziomach innych niż turkus. Tak, aby śmy mogli się z tymi poziomami z satysfakcją identyfikować. Od razu, bez zmian, jako symbol zmniejszania ilości strat i błędów w klasycznej organizacji. 
+Dlatego główną przyczyną niskiego sukcesu turkusu jest brak punktu zaczepienia modelu na poziomach innych niż turkus. Tak, abyśmy mogli się z tymi poziomami z satysfakcją identyfikować. Od razu, bez zmian, jako symbol zmniejszania ilości strat i błędów w klasycznej organizacji. 
 
 ## Różne interpretacje Turkusu w praktyce
 
