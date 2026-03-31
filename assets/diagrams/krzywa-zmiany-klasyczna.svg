@@ -17,7 +17,7 @@
   <rect class="bg" x="0" y="0" width="1200" height="720"/>
 
   <text class="title" x="70" y="60">Klasyczna krzywa zmiany</text>
-  <text class="small" x="70" y="92">Wzorzec: spadek morale / percepcji → adaptacja → nowa stabilizacja</text>
+  <text class="small" x="70" y="92">Wzorzec: początkowy entuzjazm → zderzenie ze statusem quo → pełna problematyka → szukanie rozwiązań → uczenie</text>
 
   <!-- Grid -->
   <g>
@@ -45,24 +45,27 @@
   <text class="label" x="30" y="380" text-anchor="middle" transform="rotate(-90 30 380)">Morale / percepcja</text>
 
   <!-- Phase labels -->
-  <text class="small" x="160" y="642" text-anchor="middle">Status quo</text>
-  <text class="small" x="360" y="642" text-anchor="middle">Zakłócenie</text>
-  <text class="small" x="560" y="642" text-anchor="middle">Dołek (opór)</text>
-  <text class="small" x="760" y="642" text-anchor="middle">Integracja</text>
-  <text class="small" x="980" y="642" text-anchor="middle">Nowa normalność</text>
+  <text class="small" x="210" y="642" text-anchor="middle">Początkowy entuzjazm</text>
+
+  <text class="small" x="470" y="642" text-anchor="middle">Zderzenie ze statusem quo</text>
+
+  <text class="small" x="730" y="642" text-anchor="middle">Pełna problematyka</text>
+
+  <text class="small" x="990" y="642" text-anchor="middle">Szukanie rozwiązań</text>
+  <text class="small" x="990" y="660" text-anchor="middle">(uczenie)</text>
 
   <!-- Curve -->
   <path class="curve"
-    d="M 140 260
-       C 260 245, 320 275, 390 320
-       C 470 375, 520 525, 610 540
-       C 720 560, 820 420, 900 320
-       C 980 240, 1060 215, 1120 220" />
+    d="M 140 235
+       C 260 230, 320 260, 390 305
+       C 470 365, 520 525, 610 555
+       C 720 575, 820 430, 900 320
+       C 980 245, 1060 220, 1120 225" />
 
   <!-- Markers -->
-  <circle class="marker" cx="140" cy="260" r="5"/>
-  <circle class="marker" cx="610" cy="540" r="5"/>
-  <circle class="marker" cx="1120" cy="220" r="5"/>
+  <circle class="marker" cx="140" cy="235" r="5"/>
+  <circle class="marker" cx="610" cy="555" r="5"/>
+  <circle class="marker" cx="1120" cy="225" r="5"/>
 
   <text class="note" x="90" y="610">Modelowy kształt percepcji zmiany. Głębokość dołka i tempo odbicia zależą od wsparcia, jasności i sensu zmiany.</text>
 </svg>
