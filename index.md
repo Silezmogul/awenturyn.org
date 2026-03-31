@@ -48,17 +48,19 @@ W praktyce, powszechne rozumienie turkusu zmienia się zależnie od doświadcze�
 
 Przez te 12 lat znaczenie turkusu odbiegło od definicji i jest kojarzone mniej pozytywnie.
 
-Dobra wiadomość jest taka, że patrząc na model emocjonalnego cyklu zmiany Kelleya i Connera, nie ma w tym nic dziwnego.
+Dobra wiadomość jest taka, że patrząc na model emocjonalnego cyklu zmiany Kelleya i Connera, nie ma w tym nic dziwnego. 
 
 ![Modelowy kształt percepcji zmiany](/assets/diagrams/krzywa-zmiany-klasyczna.svg)
 
-## Zwiększenie bezpieczeństwa i efektywności w organizacjach bez wdrażania Turkusu
+Turkus przyciągnął będąc interpretowanym jako ideał. 
 
-Turkus przyciąga będąc interpretowanym jako ideał. 
+Odejście od struktur i ustalenie ewolucyjnego celu dla większości okazało się być pożywką dla chaosu, niezdrowych zachowań i strat.
 
-Przez te wszystkie lata obserwowałem, jak byliśmy karmieni i karmiliśmy się nawzajem definicją Turkusu jako odróżnienia od innych form organizacji.
+Negatywne doświadczenia uształtowały powszechną opinię.
 
-Odejście od struktur i ustalenie ewolucyjnego celu okazuje się być pożywką dla chaosu, niezdrowych zachowań i strat. 
+Pojedyncze firmy, zespoły i osoby pozostały z problemem, poradziły sobie z wyzwaniami i cieszą się nową normalnością. 
+
+## Zwiększenie bezpieczeństwa i efektywności w organizacjach bez wdrażania Turkusu 
 
 Dlatego uważam, że najpierw jako ogół potrzebujemy umieć odpowiedzialnie korzystać z klasycznych form zarządzania i organizacji pracy.
 
