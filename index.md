@@ -18,19 +18,27 @@ teaches:
 
 # Awenturyn: brakujący poziom w teorii rozwoju organizacji
 
-Od daty publikacji "Pracować inaczej" / "Reinventing Organizations" Frederica Laloux'a minęło 12 lat. Przez lata popularyzacji turkus stał się bardzo silnym, znanym hasłem, ale i hasłem unikanym. Dlatego, że to "nie czyjś typ" organizacji. Dlatego, że u innych nie działa i to pewnie odklejony od rzeczywistości model.
+Od daty publikacji "Pracować inaczej" / "Reinventing Organizations" Frederica Laloux'a minęło 12 lat. Turkus przez lata popularyzacji stał się bardzo silnym, znanym hasłem, ale i hasłem unikanym. 
 
-Słusznie, turkus jest tylko dla wąskiego grona. Słusznie, turkus ma bardzo niski sukces adopcyjny. Ale według mnie to nie jest główna przyczyna. 
+Hasłem rozpoznawalnym dzięki chęciom zdrowszej i bardziej efektywnej pracy. Hasłem unikanym z uwagi na decentralizację władzy, brak oddzielenia turkusu od modeli własnościowych lub złe doświadczenia przedsiębiorców.
 
-W Książce Laloux'a jest więcej niż turkus ale tylko turkus jest tak poruszany w głównym nurcie. Nawet jeśli inne etapy miałyby bardziej fantazyjne nazwy, problem marki byłby rozwiązany, ale problem adopcyjny nie. Adopcjyjność turkusu sama w sobie jest problemem, nie trzeba "stawać się bardziej turkusowym" by korzystać z tego modelu bo turkus jest na nim tylko kropką a nie celem.
+Turkus ma niskie prawdopodobieństwo sukcesu ale problem leży gdzieś indziej.
 
-Dlatego główną przyczyna problemu turkusu jest brakujące ogniwo modelu o unikalnej nazwie. Ogniwo, które jest "W typie" większości, z którym miło jest się identyfikować. Ogniwo, które nie wymaga zmiany sposobu zarządzania, ale zmniejsza ilość strat i błędów w klasycznej organizacji.
+W swojej książce Laloux mówi o wielu poziomach, nie tylko o turkusie. Natomiast żaden z innych poziomów z książki nie jest tak rozpoznawalny jak turkus. Jeśli zapytamy kogoś na natworkingu czy identyfikuje się z turkusem lub nie, raczej dostaniemy odpowiedź. Jeśli zapytamy się o identyfikację z innym poziomem, raczej nie dostaniemy odpowiedzi.
+
+Turkus, Teal, jest finezyjną nazwą. Niebieski czy pomarańczowy, nie jest tak unikalny, wymaga kontekstu rozmowy. Symbol ma wpływ na rozpoznawalność ale nie ma wpływu na szanse sukcesu turkusu wewnątrz.
+
+Tym, co ma wpływ na szanse sukcesu wewnątrz jest np. traktowanie turkusu jako celu lub lub nie. Nie trzeba "stawać się bardziej turkusowym" by korzystać z modelu. Nie trzeba przyjmować turkusu jako programu transformacji, tożsawości własnej czy tożsamości organizacji. 
+
+Turkus na mapie modelu jest punktem, kropką a nie celem. Natomiast w kulturze biznesowej turkus stał się jedynym widzialnym celem a korzystanie z modelu nie. To znaczy, że samodoskonalenie na poziomie niebieskim czy pomarańczowym nie istnieje ale nieświadomy podział na lepsze i gorsze poziomy już tak. Mimo tego, że współczesne firmy korzystają z wielu poziomów na raz, zależnie od funkcji działu.
+
+Dlatego główną przyczyną niskiego sukcesu turkusu jest brak punktu zaczepienia modelu na poziomach innych niż turkus. Tak, aby śmy mogli się z tymi poziomami z satysfakcją identyfikować. Od razu, bez zmian, jako symbol zmniejszania ilości strat i błędów w klasycznej organizacji. 
 
 ## Różne interpretacje Turkusu w praktyce
 
-Turkus w znaczeniu organizacyjnym jest powszechnie (nie z definicji) rozumianmy jako odejście własnościowej sprawczości, hierarchii i realizacji z góry ustalonych planów. 
+Turkus jest powszechnie (nie z właściwej definicji) rozumianmy jako odejście własnościowej sprawczości, hierarchii i realizacji z góry ustalonych planów. 
 
-W praktyce turkus dla wielu osób znaczy coś innego.
+W praktyce, powszechne rozumienie turkusu zmienia się zależnie od doświadczeń.
 
 - Dla części osób to drogi eksperyment, probowały wdrożyć turkus i na tym straciły.
 - Dla części osób to "niedoskonały ideał", który w teorii brzmi fajnie ale w praktyce się nie spradza. 
@@ -38,8 +46,11 @@ W praktyce turkus dla wielu osób znaczy coś innego.
 - Dla części osób to zmiany w organizacji, o których nikt nie mówił w trakcie nawiązywania współpracy i lata wcześniejszej pracy.
 - Dla części osób to niespełniona obietnica. Zawód i ból związany z niemymi hierarchiami, argumentem podniesionego głosu, osobistych interesów, czy braku zaangażowania.
 
-Przez te 12 lat Turkus stał się hasłem omijanym.
+Przez te 12 lat znaczenie turkusu odbiegło od definicji i jest kojarzone mniej pozytywnie.
 
+Dobra wiadomość jest taka, że patrząc na model emocjonalnego cyklu zmiany Kelleya i Connera, nie ma w tym nic dziwnego.
+
+![Modelowy kształt percepcji zmiany](/assets/diagrams/krzywa-zmiany-klasyczna.svg)
 
 ## Zwiększenie bezpieczeństwa i efektywności w organizacjach bez wdrażania Turkusu
 
