@@ -17,7 +17,7 @@
   <rect class="bg" x="0" y="0" width="1200" height="720"/>
 
   <text class="title" x="70" y="60">Klasyczna krzywa zmiany</text>
-  <text class="small" x="70" y="92">Wzorzec: początkowy entuzjazm → zderzenie ze statusem quo → pełna problematyka → szukanie rozwiązań → uczenie</text>
+  <text class="small" x="70" y="92">Wzorzec: początkowy entuzjazm → zderzenie ze statusem quo → pełna problematyka → szukanie rozwiązań (uczenie) → nowa normalność</text>
 
   <!-- Grid -->
   <g>
@@ -45,14 +45,18 @@
   <text class="label" x="30" y="380" text-anchor="middle" transform="rotate(-90 30 380)">Morale / percepcja</text>
 
   <!-- Phase labels -->
-  <text class="small" x="210" y="642" text-anchor="middle">Początkowy entuzjazm</text>
+  <text class="small" x="170" y="642" text-anchor="middle">Początkowy entuzjazm</text>
 
-  <text class="small" x="470" y="642" text-anchor="middle">Zderzenie ze statusem quo</text>
+  <text class="small" x="390" y="642" text-anchor="middle">Zderzenie</text>
+  <text class="small" x="390" y="660" text-anchor="middle">ze statusem quo</text>
 
-  <text class="small" x="730" y="642" text-anchor="middle">Pełna problematyka</text>
+  <text class="small" x="610" y="642" text-anchor="middle">Pełna problematyka</text>
 
-  <text class="small" x="990" y="642" text-anchor="middle">Szukanie rozwiązań</text>
-  <text class="small" x="990" y="660" text-anchor="middle">(uczenie)</text>
+  <text class="small" x="830" y="642" text-anchor="middle">Szukanie rozwiązań</text>
+  <text class="small" x="830" y="660" text-anchor="middle">(uczenie)</text>
+
+  <text class="small" x="1050" y="642" text-anchor="middle">Nowa normalność</text>
+  <text class="small" x="1050" y="660" text-anchor="middle">(stabilizacja)</text>
 
   <!-- Curve -->
   <path class="curve"
