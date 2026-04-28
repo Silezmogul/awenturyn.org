@@ -62,7 +62,7 @@ Czy jest coś, co mogło uchronić Twojego przodka, jego rodzinę i osadę od za
 5. Czy jest coś, co może uchronić Twój kraj i zespół od korupcji opinii?
 6. Nie wiem może trzeba odebrać wszystko co zdobyte fałszywą opinią za pomocą siły i oddać komuś innemu! Na szczęście ktoś już wpadł na lepszy pomysł… 
 
-  Możesz szukać pomysłów i treści dotyczących teorii organizacji. Trafisz wtedy na "Pracować inaczej" / "Reinventing Organizations" Frederica Lalouxa.
+Możesz szukać pomysłów i treści dotyczących teorii organizacji. Trafisz wtedy na "Pracować inaczej" / "Reinventing Organizations" Frederica Lalouxa, dla którego tym pomysłem jest odejście od potrzeby pokładania struktur i siły jednostkom na rzecz ich dystrybucji większej liczbie osób w sposób nie-hierarchiczny.
 
 ## Turkus
 
