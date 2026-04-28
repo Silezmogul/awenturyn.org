@@ -19,43 +19,48 @@ teaches:
 # Awenturyn: brakujący poziom w teorii rozwoju organizacji
 
 ## Teoria rozwoju organizacji
+
 Awenturyn to element większej układanki. Postaram się przedstawić tą układankę, teorię rozwoju organizacji najkrócej jak tylko umiem. Wyobraź sobie świat prehistoryczny. W nim twój przodek, chciał zapewnić bezpieczeństwo sobie, bliższej i dalszej rodzinie. 
 Czy jest coś, co mogło uchronić Twojego przodka, jego rodzinę i osadę od zagrożeń?
 
-a) Siła
-  1. Siła wystarczy do ochrony przed zagrożeniami.
-  2. Lecz co może pójść nie tak, gdy zbyt łatwo przyjdzie korzystać z siły?
-  3. Siła daje bezpieczeństwo, ale Siła może okazać się łatwiejsza do użycia niż komunikacja. 
-  4. Siła może skorumpować. Można wtedy dojść do wniosku, że silni ludzie są lepsi od słabszych lub siła jest zła. 
-  5. Czy jest coś, co może uchronić od korupcji siły?
-  6. Nie wiem, może trzeba odebrać siłę większą siłą i podstępem komuś bardziej zaufenemu, i sprawdzonemu! Na szczęście ktoś już wpadł na lepszy pomysł.
-  7. Jeśli nie można przekazać siły byle komu silniejszemu, to musi być ktoś mądry, stabilny i potrafiący obserwować. Może można wdrożyć mechanizm lub ustrukturyzowaną tradycję, która w tym pomoże?
+### a) Siła
 
-b) Struktura
-  1. Super, struktury działają trochę stabilniej niż siła. 
-  2. Lecz co może pójść nie tak, gdy korzystanie i włączanie w struktury przyjdzie zbyt łatwo?
-  3. Struktura zwiększa bezpieczeństwo, ale struktura może okazać się łatwiejsza do użycia niż siła czy komunikacja. Wystarczy winna przysługa czy polecenie.
-  4. Struktura może skorumpować. Można wtedy dojść do wniosku, że ludzie w strukturach są lepsi od ludzi silnych, i spoza struktur, lub struktury są złe.
-  5. Czy jest coś, co może uchronić od korupcji struktury?
-  6. Nie wiem może trzeba odebrać strukturę siłą i oddać komuś innemu! Na szczęście ktoś już wpadł na lepszy pomysł.
-  7. Jeśli nie można jakoś lepiej usprawnić przekazywanie struktur, to może nie powinno to być zależne tylko i wyłącznie od nazwiska, od woli poprzednika czy osoby wyżej. Może jest coś lepszego, np. równe oparcie decyzji o poprzednie sukcesy i wyniki?
+1. Siła wystarczy do ochrony przed zagrożeniami.
+2. Lecz co może pójść nie tak, gdy zbyt łatwo przyjdzie korzysatać z siły?
+3. Siła daje bezpieczeństwo, ale Siła może okazać się łatwiejsza do użycia niż komunikacja. 
+4. Siła może skorumpować. Można wtedy dojść do wniosku, że silni ludzie są lepsi od słabszych lub siła jest zła. 
+5. Czy jest coś, co może uchronić od korupcji siły?
+6. Nie wiem, może trzeba odebrać siłę większą siłą i podstępem komuś bardziej zaufenemu, i sprawdzonemu! Na szczęście ktoś już wpadł na lepszy pomysł.
+7. Jeśli nie można przekazać siły byle komu silniejszemu, to musi być ktoś mądry, stabilny i potrafiący obserwować. Może można wdrożyć mechanizm lub ustrukturyzowaną tradycję, która w tym pomoże?
 
-c) Wyniki
-  1. Wyniki dają bardziej równe szanse na konkurowanie i wybór najlepszych. 
-  2. Co może pójść nie tak, gdy Twój kraj lub zespół przegnie z wykorzystywaniem wyników i sukcesu?
-  3. Wyniki, miara np. Mienia, posiadanych pieniędzy może służyć jako dowód sukcesu i właściwej drogi, ale mierzone rzeczy mogą nie mieć związku z rzeczywistością, wyniki można fałszować. Można również pracować na wynik, a nie sukces, który tym wynikiem miał być mierzony. Można również porzucić rzeczy, które wyniki miały zapewnić, dla jeszcze większych wyników.
-  4. Wyniki i mienie może skorumpować. Można wtedy dojść do wniosku, że ludzie którzy mają wyniki, zasoby czy inne miary sukcesu np. pieniądze są lepsi od ludzi silnych, oraz ludzi w strukturach lub wartościowanie ludzi w oparciu o wyniki i sukces jest złe.
-  5. Czy jest coś, co może uchronić Twój kraj i zespół od korupcji wyników? 
-  6. Nie wiem, może trzeba odebrać sukces, mienie, strukturę siłą i oddać komuś innemu! Na szczęście ktoś już wpadł na lepszy pomysł.
-  7. Nie można wspierać sukcesu czy oddawać struktur  byle komu, to powinien być ktoś, lub coś (np. marka) których wyniki są zbieżne z rzeczywistością i dobrymi opiniami innych ludzi?
+### b) Struktura
 
-d) Ludzie
-  1. Dbanie o bezpośrednio o ludzi, świat i opinie daje bezpośrednie świadectwa.
-  2. Co może pójść nie tak, gdy osoby czy zespoły za dobrze opanują dbanie o innych i opinie?
-  3. Opinie mogą służyć jako dowód społeczny właściwej drogi, ale mogą również prowadzić do paraliżu decyzyjnego. Opinie można przekłamać, można również segregować ludzi na podstawie ich opinii. Lub co gorsza segregować ludzi na podstawie założeń co do ich opinii. Można również dyskryminować ludzi na podstawie ich opinii i działań. Można tworzyć fałszywe opinie na temat innych, te dobre lub te złe. Jeśli ktoś jest silny, to nie dba o ludzi. Jeśli ktoś tworzy struktury, nie dba o ludzi. Jeśli ktoś dba o wyniki, nie dba o ludzi.
-  4. Opinie innych mogą skorumpować. Można dojść do wniosku, że ludzie którzy posługują się opiniami ludzi, zespołu, klienta, osoby oddającej głos, są lepsi od tych którzy doceniają siłę, strukturę czy wyniki, lub dbanie o opinie innych ludzi jest złe.
-  5. Czy jest coś, co może uchronić Twój kraj i zespół od korupcji opinii?
-  6. Nie wiem może trzeba odebrać wszystko co zdobyte fałszywą opinią za pomocą siły i oddać komuś innemu! Na szczęście ktoś już wpadł na lepszy pomysł… 
+1. Super, struktury działają trochę stabilniej niż siła. 
+2. Lecz co może pójść nie tak, gdy korzystanie i włączanie w struktury przyjdzie zbyt łatwo?
+3. Struktura zwiększa bezpieczeństwo, ale struktura może okazać się łatwiejsza do użycia niż siła czy komunikacja. Wystarczy winna przysługa czy polecenie.
+4. Struktura może skorumpować. Można wtedy dojść do wniosku, że ludzie w strukturach są lepsi od ludzi silnych, i spoza struktur, lub struktury są złe.
+5. Czy jest coś, co może uchronić od korupcji struktury?
+6. Nie wiem może trzeba odebrać strukturę siłą i oddać komuś innemu! Na szczęście ktoś już wpadł na lepszy pomysł.
+7. Jeśli nie można jakoś lepiej usprawnić przekazywanie struktur, to może nie powinno to być zależne tylko i wyłącznie od nazwiska, od woli poprzednika czy osoby wyżej. Może jest coś lepszego, np. równe oparcie decyzji o poprzednie sukcesy i wyniki?
+
+### c) Wyniki
+
+1. Wyniki dają bardziej równe szanse na konkurowanie i wybór najlepszych. 
+2. Co może pójść nie tak, gdy Twój kraj lub zespół przegnie z wykorzystywaniem wyników i sukcesu?
+3. Wyniki, miara np. Mienia, posiadanych pieniędzy może służyć jako dowód sukcesu i właściwej drogi, ale mierzone rzeczy mogą nie mieć związku z rzeczywistością, wyniki można fałszować. Można również pracować na wynik, a nie sukces, który tym wynikiem miał być mierzony. Można również porzucić rzeczy, które wyniki miały zapewnić, dla jeszcze większych wyników.
+4. Wyniki i mienie może skorumpować. Można wtedy dojść do wniosku, że ludzie którzy mają wyniki, zasoby czy inne miary sukcesu np. pieniądze są lepsi od ludzi silnych, oraz ludzi w strukturach lub wartościowanie ludzi w oparciu o wyniki i sukces jest złe.
+5. Czy jest coś, co może uchronić Twój kraj i zespół od korupcji wyników? 
+6. Nie wiem, może trzeba odebrać sukces, mienie, strukturę siłą i oddać komuś innemu! Na szczęście ktoś już wpadł na lepszy pomysł.
+7. Nie można wspierać sukcesu czy oddawać struktur  byle komu, to powinien być ktoś, lub coś (np. marka) których wyniki są zbieżne z rzeczywistością i dobrymi opiniami innych ludzi?
+
+### d) Ludzie
+
+1. Dbanie o bezpośrednio o ludzi, świat i opinie daje bezpośrednie świadectwa.
+2. Co może pójść nie tak, gdy osoby czy zespoły za dobrze opanują dbanie o innych i opinie?
+3. Opinie mogą służyć jako dowód społeczny właściwej drogi, ale mogą również prowadzić do paraliżu decyzyjnego. Opinie można przekłamać, można również segregować ludzi na podstawie ich opinii. Lub co gorsza segregować ludzi na podstawie założeń co do ich opinii. Można również dyskryminować ludzi na podstawie ich opinii i działań. Można tworzyć fałszywe opinie na temat innych, te dobre lub te złe. Jeśli ktoś jest silny, to nie dba o ludzi. Jeśli ktoś tworzy struktury, nie dba o ludzi. Jeśli ktoś dba o wyniki, nie dba o ludzi.
+4. Opinie innych mogą skorumpować. Można dojść do wniosku, że ludzie którzy posługują się opiniami ludzi, zespołu, klienta, osoby oddającej głos, są lepsi od tych którzy doceniają siłę, strukturę czy wyniki, lub dbanie o opinie innych ludzi jest złe.
+5. Czy jest coś, co może uchronić Twój kraj i zespół od korupcji opinii?
+6. Nie wiem może trzeba odebrać wszystko co zdobyte fałszywą opinią za pomocą siły i oddać komuś innemu! Na szczęście ktoś już wpadł na lepszy pomysł… 
 
   Możesz szukać pomysłów i treści dotyczących teorii organizacji. Trafisz wtedy na "Pracować inaczej" / "Reinventing Organizations" Frederica Lalouxa.
 
