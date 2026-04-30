@@ -62,17 +62,20 @@ Czy jest coś, co mogło uchronić Twojego przodka, jego rodzinę i osadę od za
 5. Czy jest coś, co może uchronić Twój kraj i zespół od korupcji opinii?
 6. Nie wiem może trzeba odebrać wszystko co zdobyte fałszywą opinią za pomocą siły i oddać komuś innemu! Na szczęście ktoś już wpadł na lepszy pomysł… 
 
-Możesz szukać pomysłów i treści dotyczących teorii organizacji. Trafisz wtedy na "Pracować inaczej" / "Reinventing Organizations" Frederica Lalouxa, dla którego tym pomysłem jest odejście od potrzeby pokładania struktur i siły jednostkom na rzecz ich dystrybucji większej liczbie osób w sposób nie-hierarchiczny.
+Masz pomysł na d7? Publikacją, która najbardziej spopularyzowała ten model razem z kolejnym jego elementem jest "Pracować inaczej" / "Reinventing Organizations" Frederica Lalouxa. Książka została wydana w 2014 r. i ma swoją Wiki na https://reinventingorganizationswiki.com/pl/ Z innych źródeł, mogę wymienić https://spiraldynamicsintegral.nl/en/turquoise/. Nie jest przetłumaczona na język polski ale później co najmniej raz będę musiał się do tego odnieść. 
 
-## Turkus
+W obu źródłach, które podałem, elementy modelu nie są określane bezpośrednio, tylko są określane przypisanym do nim kolorem. To niestety tworzy barierę komunikacyjną dlatego będę starał się usprawniać przedstawienie modelu bez kolorów oraz nie korzystać, aktualizować treści by w pierwszej kolejności nie posługiwały się kolorami.
 
-Od daty publikacji "Pracować inaczej" / "Reinventing Organizations" Frederica Lalouxa minęło 12 lat. Przez te 12 lat Awenturyn nie istniał, dalej nie istnieje, chyba, że ktoś o nim przeczytał. Turkus przez lata popularyzacji stał się bardzo silnym, znanym hasłem, ale i hasłem unikanym. 
+
+## "Turkus"
+
+w książce "Pracować inaczej" / "Reinventing Organizations" Frederica Lalouxa, kolejny element układanki jest nazywany turkusem lub w języku angielskim "Teal".  Od daty publikacji książki minęło 12 lat. W świecie biznesowym, przez lata turkus stał się znanym hasłem, ale i hasłem unikanym. 
 
 Hasłem rozpoznawalnym dzięki chęciom zdrowszej i bardziej efektywnej pracy. Hasłem unikanym z uwagi na decentralizację władzy, brak oddzielenia turkusu od modeli własnościowych lub złe doświadczenia i brak rozwagi.
 
-Turkus ma niskie prawdopodobieństwo sukcesu ale problem leży gdzieś indziej.
+Turkus ma aktualnie niskie prawdopodobieństwo sukcesu ale problem leży gdzieś indziej.
 
-W swojej książce Laloux mówi o wielu poziomach, nie tylko o turkusie. Natomiast żaden z innych poziomów z książki nie jest tak rozpoznawalny jak turkus. Jeśli zapytamy kogoś na natworkingu czy identyfikuje się z turkusem lub nie, raczej dostaniemy odpowiedź. Jeśli zapytamy się o identyfikację z innym poziomem, raczej nie dostaniemy odpowiedzi.
+W swojej książce Laloux mówi o wielu elementach składających się na model, nie tylko o turkusie. Natomiast żaden z innych poziomów z książki nie jest tak rozpoznawalny jak turkus. Jeśli zapytamy kogoś na natworkingu czy identyfikuje się z turkusem lub nie, raczej dostaniemy odpowiedź. Jeśli zapytamy się o identyfikację z innym poziomem, raczej nie dostaniemy odpowiedzi.
 
 Turkus, Teal, jest finezyjną nazwą. Niebieski czy pomarańczowy, nie jest tak unikalny, wymaga kontekstu rozmowy. Symbol ma wpływ na rozpoznawalność ale nie ma wpływu na szanse sukcesu turkusu wewnątrz.
 
