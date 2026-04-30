@@ -62,7 +62,7 @@ Czy jest coś, co mogło uchronić Twojego przodka, jego rodzinę i osadę od za
 5. Czy jest coś, co może uchronić Twój kraj i zespół od korupcji opinii?
 6. Nie wiem może trzeba odebrać wszystko co zdobyte fałszywą opinią za pomocą siły i oddać komuś innemu! Na szczęście ktoś już wpadł na lepszy pomysł… 
 
-Masz pomysł na d7? Publikacją, która najbardziej spopularyzowała ten model razem z kolejnym jego elementem jest "Pracować inaczej" / "Reinventing Organizations" Frederica Lalouxa. Książka została wydana w 2014 r. i ma swoją Wiki na https://reinventingorganizationswiki.com/pl/ Z innych źródeł, mogę wymienić https://spiraldynamicsintegral.nl/en/turquoise/. Nie jest przetłumaczona na język polski ale później co najmniej raz będę musiał się do tego odnieść. 
+Masz pomysł na d7? Publikacją, która najbardziej spopularyzowała ten model razem z kolejnym jego elementem jest "Pracować inaczej" / "Reinventing Organizations" Frederica Lalouxa. Książka została wydana w 2014 r. i ma swoją Wiki na <https://reinventingorganizationswiki.com/pl/> Z innych źródeł, mogę wymienić <https://spiraldynamicsintegral.nl/en/turquoise/>. Nie jest przetłumaczona na język polski ale później co najmniej raz będę musiał się do tego odnieść. 
 
 W obu źródłach, które podałem, elementy modelu nie są określane bezpośrednio, tylko są określane przypisanym do nim kolorem. To niestety tworzy barierę komunikacyjną dlatego będę starał się usprawniać przedstawienie modelu bez kolorów oraz nie korzystać, aktualizować treści by w pierwszej kolejności nie posługiwały się kolorami.
 
