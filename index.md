@@ -115,7 +115,7 @@ Pojedyncze firmy, zespoły i osoby pozostały z problemem, poradziły sobie z wy
 
 Pamiętasz etapy a) b) c) d) teorii rozwoju organizacji? Widzisz wzór, który starałem się ująć równą liczbą kroków do kolejnego poziomu? 
 
-Ktoś jest przywiązany do jednej perspektywy, uważa, że jest najlepsza. Siła, Struktura, Miara, Opinie. Jeśli ta perspektywa zaczyna przeszkadzać, pojawia się przekonanie, że co najmniej, że coś z tą perspektywą jest nie tak lub totalnie może ją wyprzeć. Dzięki temu powstaje nowa. 
+Ktoś jest przywiązany do jednej perspektywy, uważa, że jest najlepsza. Siła, Struktura, Miara, Opinie. Jeśli ta perspektywa zaczyna przeszkadzać, pojawia się przekonanie, że co najmniej coś z tą perspektywą jest nie tak lub totalnie może ją wyprzeć. Co przyczynia się do odkrycia nowej perspektywy.
 
 No więc teraz brakujący punkt d7. Jaki jest ten lepszy pomysł na punkt e)? 
 
@@ -131,26 +131,28 @@ Mimo, że przekroczenie tej granicy i poziom w skorumpowanej formie wydaje się 
 
 W konsekwencji można zauważyć, że każda z tych perspektyw nie jest lepsza od poprzedniej. Można z nich korzystać narzędziowo, konstruktywnie, w zrównoważony sposób.
 
-Skupienie na tej równowadze **granic** pojedyńczych poziomów (nie między poziomami) jest brakującym ogniwem. Bez tego ogniwa adopcja turkusu eksploduje. Organizacje mogą być tym brakującym ogniwem bez odejścia od własnościowej sprawczości czy realizacji z góry ustalonych planów. 
+Źródła takie jak "Spiral Dynamics Integral" wspominają zdrowych i niezdrowych manifestacjach elementów, od czerwonego przez zielony, żółty czy turkusowy (turquoise) ale żadne znich nie określa dobrego miejca na to by się zatrzymać i skupić się na tej konstruktywności lub jej braku bez myślenia o kolejnym poziomie.
+
+Nawet gdy spostrzeżenie, że każdy z tych elementów modelu, perspektyw nie jest lepszy od poprzedniego i można z nich korzystać narzędziowo, jest traktowane jako poziom, osobny element.
+
+a jako kolejny poziom, jest już przejście od hierarchii do struktur o zdecentralizowanym przywództwie.
+
+Skupienie na tej równowadze **granic** pojedyńczych poziomów (nie między poziomami) jest brakującym ogniwem. Po docenieniu pojedynczych poprzednich poziomów i przed próbami z przywództwem zdecentralizowanym np. socjokracją. Bez tego ogniwa adopcja turkusu eksploduje bo przywództwo zdecentralizowane nie poradziło sobie jeszcze z niezdrowymi czy skorumpowanymi formami poprzednich elementów, poziomów. 
 
 Tą równowagę granic, pracę nad granicami z wykorzystaniem wszystkich naturalnie funkcjonujących narzędzi bez ich odrzucania nazywam Awenturynem.
 
- To jest to e) Nie przekraczanie skorumpowanej granicy niezależnie od punktu, poziomu, narzędzia. 
+Organizacje mogą pracować nad tym brakującym ogniwem, stabilizacją perspektyw bez zmian struktur, hierarchi, bez odejścia od własnościowej sprawczości czy realizacji z góry ustalonych planów. 
 
-Problem w tym, że inni widzą jeśli ktoś korzysta z innych, gorszych lub niezrozumiałych perspektyw niż ich własne. Temat opinii już przerabialiśmy, są ważne. Ale bez odwagi inni nie zobaczą, że tak można żyć i co z tego życia wynika. 
+Danie sobie czasu na naukę nie przekraczania skorumpowanej granicy niezależnie od punktu, poziomu, narzędzia jest fundamentem po docenieniu wartości wszystkich poziomów natomiast dynamika spiralna oraz pochodne modele tego nie uwzględniają.
 
-Niektórzy potrzebują zaufania, przestrzeni by zobaczyć, czy też mogą tak żyć. Między innymi o tym jest Turkus ale nie ma co się zapędzać.
-
-Brak rozwagi z wdrożeniem czy próbami przeskoku na nowe perspektywy (bo przecież to bardziej optymalne i daje wyniki) wiąże się z odrzuceniem i regresem kulturowym. Nie ma przecież do tego prostej instrukcji do klocków czy przepisu jak na ciasto.
-
-Dlatego uważam, że najpierw jako ogół potrzebujemy umieć odpowiedzialnie korzystać z klasycznych form zarządzania i organizacji pracy.
+Dlatego Awenturyn jako brakujący poziom przed turkusem uczy odpowiedzialnie korzystać z klasycznych form zarządzania i organizacji pracy na wszystkich poprzednich poziomach.
 
 Ta odpowiedzialność i równowaga oznacza między innymi:
 Konkurowanie bez forsowania.
-Zysk bez chciwości.
+Chęć zysku bez chciwości.
 Kulturę bez tabu.
-Współdecyzyjność bez paradoksu konsensusu.
-Ekologię bez podwójnych standardów godzących w suwerenność wybranych państw.
+Współdecyzyjność bez paraliżu konsensusu.
+Ekologię bez podwójnych standardów.
 
 
 
