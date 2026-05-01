@@ -140,17 +140,17 @@ Pojedyncze firmy, zespoły i osoby pozostały z problemem, poradziły sobie z wy
 
   Nie trzeba "stawać się bardziej turkusowym" by korzystać z modelu. Nie trzeba przyjmować turkusu jako programu transformacji, tożsawości własnej czy tożsamości organizacji. 
 
-  ### Niedocenienie i brak identyfikacji z poprzednimi poziomami.
+### Niedocenienie i brak identyfikacji z poprzednimi poziomami.
 
   Wcześniej zobaczyliśmy, że Turkus na mapie modelu jest punktem, kropką a nie celem. Natomiast przez pryzmat poziomu kultury biznesowej turkus okazał się jedynym widzialnym celem a korzystanie z modelu i innych poziomów nie. To znaczy, że inne poziomy nie były brane pod uwagę jako coś, z czym można się identyfikować.
 
-  ### Wszystko albo nic
+### Wszystko albo nic
   
   Podział na lepsze i gorsze poziomy pozostaje. Mimo tego, że współczesne firmy korzystają z wielu poziomów na raz, zależnie od funkcji działu.
 
    To znaczy, że większość czytelników albo wyznacza sobie turkusowy cel samodoskonalenie przez poziom zorientowany na rezultaty albo odrzuca turkusowy cel przez uznanie niegotowości, związanego ryzyka czy potrzeby hierarchiczne.
 
-  ### Upakowanie wielu aspektów rozprasza skupienie.
+### Upakowanie wielu aspektów rozprasza skupienie.
 
   Turkus świetnie funkcjonuje jako wizja. Natomiast turkus okazał się być rezultatem różnych, różnie udokumentowanych, słabo przetartych szlaków. Przez te wszystkie lata niektóre osoby zdobyły niesamowitą ilość narzędzi rozwiązując pojedyncze problemy firm. Dotarcie do tych osób nie jest trudne, natomiast temat dalej jest związany z perspektywą rozwiązywania problemów, które wychodzą po drodze a nie proaktywnych działań, które od problemów uchronią. Kolory innych poziomów były prostrze do przebadania gdy, Graves i zespół tworzyli podstawy dynamiki spiralnej. Dodatkowo, turkus (teal) powstał jako połączenie poziomu żółtego (yellow) i turkusowego (turquoise). Podstawowe poziomy łatwo jest zastąpić jednym słowem, Turkus nie.
 
