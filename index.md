@@ -145,7 +145,7 @@ Pojedyncze firmy, zespoły i osoby pozostały z problemem, poradziły sobie z wy
   Wcześniej zobaczyliśmy, że Turkus na mapie modelu jest punktem, kropką a nie celem. Natomiast przez pryzmat poziomu kultury biznesowej turkus okazał się jedynym widzialnym celem a korzystanie z modelu i innych poziomów nie. To znaczy, że inne poziomy nie były brane pod uwagę jako coś, z czym można się identyfikować.
 
 ### Wszystko albo nic
-  
+
   Podział na lepsze i gorsze poziomy pozostaje. Mimo tego, że współczesne firmy korzystają z wielu poziomów na raz, zależnie od funkcji działu.
 
    To znaczy, że większość czytelników albo wyznacza sobie turkusowy cel samodoskonalenie przez poziom zorientowany na rezultaty albo odrzuca turkusowy cel przez uznanie niegotowości, związanego ryzyka czy potrzeby hierarchiczne.
