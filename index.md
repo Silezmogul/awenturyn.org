@@ -16,12 +16,13 @@ teaches:
   - "reducing cost, waste, risk, and abuse by addressing Green-stage tensions and ethical boundary overreach"
 ---
 
-# Awenturyn: brakujący poziom w teorii rozwoju organizacji
+# Awenturyn: brakujący poziom w teorii rozwoju organizacji przed turkusem
 
 ## Teoria rozwoju organizacji
 
 Awenturyn to element większej układanki. Postaram się przedstawić tą układankę, teorię rozwoju organizacji najkrócej jak tylko umiem. Wyobraź sobie świat prehistoryczny. W nim twój przodek, chciał zapewnić bezpieczeństwo sobie, bliższej i dalszej rodzinie. 
 Czy jest coś, co mogło uchronić Twojego przodka, jego rodzinę i osadę od zagrożeń?
+
 
 ### a) Siła
 
@@ -33,6 +34,7 @@ Czy jest coś, co mogło uchronić Twojego przodka, jego rodzinę i osadę od za
 6. Nie wiem, może trzeba odebrać siłę większą siłą i podstępem komuś bardziej zaufenemu, i sprawdzonemu! Na szczęście ktoś już wpadł na lepszy pomysł.
 7. Jeśli nie można przekazać siły byle komu silniejszemu, to musi być ktoś mądry, stabilny i potrafiący obserwować. Może można wdrożyć mechanizm lub ustrukturyzowaną tradycję, która w tym pomoże?
 
+
 ### b) Struktura
 
 1. Super, struktury działają trochę stabilniej niż siła. 
@@ -42,6 +44,7 @@ Czy jest coś, co mogło uchronić Twojego przodka, jego rodzinę i osadę od za
 5. Czy jest coś, co może uchronić od korupcji struktury?
 6. Nie wiem może trzeba odebrać strukturę siłą i oddać komuś innemu! Na szczęście ktoś już wpadł na lepszy pomysł.
 7. Jeśli nie można jakoś lepiej usprawnić przekazywanie struktur, to może nie powinno to być zależne tylko i wyłącznie od nazwiska, od woli poprzednika czy osoby wyżej. Może jest coś lepszego, np. równe oparcie decyzji o poprzednie sukcesy i wyniki?
+
 
 ### c) Wyniki
 
@@ -68,7 +71,7 @@ Masz pomysł na d7? Publikacją, która najbardziej spopularyzowała ten model r
 W obu źródłach, które podałem, elementy modelu nie są określane bezpośrednio, tylko są określane przypisanym do nim kolorem. To niestety tworzy barierę komunikacyjną dlatego będę starał się usprawniać przedstawienie modelu bez kolorów oraz nie korzystać, aktualizować treści by w pierwszej kolejności nie posługiwały się kolorami. Niemniej jednak nikt nie posługuje się hasłem alternatywnym do turkusu więc nakreślę o co chodzi.
 
 
-## Samoorganizowanie wokół celu -Turkus
+## Samoorganizowanie wokół celu - Turkus
 
 w książce "Pracować inaczej" / "Reinventing Organizations" Frederica Lalouxa, kolejny element układanki jest nazywany turkusem. Z języka angielskiego "Teal". Według definicji turkus składa się z trzech filarów. Samozarządzania, Osobistej Pełni oraz ewolucyjnego celu.
 
@@ -111,25 +114,51 @@ Negatywne doświadczenia uształtowały powszechną opinię.
 
 Pojedyncze firmy, zespoły i osoby pozostały z problemem, poradziły sobie z wyzwaniami i cieszą się nową normalnością. 
 
-## Czemu Turkus okazał się trudny?
+## Czemu początki Turkusu w praktyce okazały się trudne?
 
-  ### Zapomniany model
+### Zapomniany model
+
   W swojej książce Laloux mówi o wielu elementach modelu. Siła - Czerwony, Struktura - Niebieski, Wyniki - Pomarańczowy, Relacje - Zielony. Sam tytuł książki to nie "Turkus" tylko "Pracować inaczej" / "Reinventing Organizations". Mimo tego, żaden z tych poziomów z książki nie jest tak rozpoznawalny jak turkus. 
 
-  ### Zapomniane elementy
+### Zapomniane elementy
 
-  Turkus, Teal, jest finezyjną nazwą. Niebieski czy pomarańczowy, nie jest tak unikalny, wymaga kontekstu rozmowy. Symbol ma wpływ na rozpoznawalność ale nie ma wpływu na szanse sukcesu turkusu wewnątrz.
+  Turkus, Teal, jest finezyjnym kolorem, nazwą którą łatwo się kojarzy. Czerwony, Niebieski, Pomarańczowy, Zielony nie są tak unikalne. Mogą się odnosić do modeli z innych dziedzin. Nic dziwnego, że 
 
-  ### Zorientowanie na cel
-  W książce turkus jest ostatnim wspomnianym poziomem. Obiecuje wiele, między innymi większą konkurencyjność i wyniki bez negatywnych kompromisów czy zła koniecznego. Osoby potrafiące korzystać z poziomu rezultatów to doceniają. Niestety jak wiemy, każdy poziom w swojej neutralności może być konstruktywny i destruktywny. Przykładem jest pochopne dąrzenie do celu. Próba oparcia firmy tylko i wyłącznie o  delikatne zależności w kulturze podatnej na destrukcyjne formy poziomów.
+### Niezrozumiałe znaczenia
 
-Tym, co ma wpływ na szanse sukcesu wewnątrz jest np. traktowanie turkusu jako celu lub lub nie. Nie trzeba "stawać się bardziej turkusowym" by korzystać z modelu. Nie trzeba przyjmować turkusu jako programu transformacji, tożsawości własnej czy tożsamości organizacji. 
+  Aby posługiwać się kolorami trzeba znać ich kontekst. To tworzy barierę językową i dzieli na tych, którzy "siedzą w modelu" lub nie. 
 
-Turkus na mapie modelu jest punktem, kropką a nie celem. Natomiast przez pryzmat poziomu kultury biznesowej turkus okazał się jedynym widzialnym celem a korzystanie z modelu nie. To znaczy, że wyznaczając turkusowy cel samodoskonalenie na poziomie rezultatów, pomarańczowym, nie istnieje a nieświadomy podział na lepsze i gorsze poziomy pozostaje. Mimo tego, że współczesne firmy korzystają z wielu poziomów na raz, zależnie od funkcji działu.
+### Zorientowanie na najwyższy widzialny cel
 
-Dlatego główną przyczyną niskiego sukcesu turkusu jest brak punktu zaczepienia modelu na poziomach innych niż turkus. Tak, abyśmy mogli się z tymi poziomami z satysfakcją identyfikować. Od razu, bez zmian, jako symbol zmniejszania ilości strat i błędów w klasycznej organizacji. 
+  Symbol ma wpływ na rozpoznawalność ale nie ma wpływu na szanse sukcesu turkusu wewnątrz. 
+  
+  W książce turkus jest ostatnim wspomnianym poziomem. Obiecuje wiele, między innymi większą konkurencyjność i wyniki bez negatywnych kompromisów czy zła koniecznego. 
+  
+  Osoby potrafiące korzystać z poziomu rezultatów to doceniają. Niestety jak wiemy, każdy poziom w swojej neutralności może być konstruktywny i destruktywny. 
+  
+  Przykładem jest pochopne dąrzenie do celu. Próba oparcia firmy tylko i wyłącznie o  delikatne zależności w kulturze podatnej na destrukcyjne formy poziomów.
 
-## Zwiększenie bezpieczeństwa i efektywności w organizacjach bez zmian strukturalnych
+  Nie trzeba "stawać się bardziej turkusowym" by korzystać z modelu. Nie trzeba przyjmować turkusu jako programu transformacji, tożsawości własnej czy tożsamości organizacji. 
+
+  ### Niedocenienie i brak identyfikacji z poprzednimi poziomami.
+
+  Wcześniej zobaczyliśmy, że Turkus na mapie modelu jest punktem, kropką a nie celem. Natomiast przez pryzmat poziomu kultury biznesowej turkus okazał się jedynym widzialnym celem a korzystanie z modelu i innych poziomów nie. To znaczy, że inne poziomy nie były brane pod uwagę jako coś, z czym można się identyfikować.
+
+  ### Wszystko albo nic
+  
+  Podział na lepsze i gorsze poziomy pozostaje. Mimo tego, że współczesne firmy korzystają z wielu poziomów na raz, zależnie od funkcji działu.
+
+   To znaczy, że większość czytelników albo wyznacza sobie turkusowy cel samodoskonalenie przez poziom zorientowany na rezultaty albo odrzuca turkusowy cel przez uznanie niegotowości, związanego ryzyka czy potrzeby hierarchiczne.
+
+  ### Upakowanie wielu aspektów rozprasza skupienie.
+
+  Turkus świetnie funkcjonuje jako wizja. Natomiast turkus okazał się być rezultatem różnych, różnie udokumentowanych, słabo przetartych szlaków. Przez te wszystkie lata niektóre osoby zdobyły niesamowitą ilość narzędzi rozwiązując pojedyncze problemy firm. Dotarcie do tych osób nie jest trudne, natomiast temat dalej jest związany z perspektywą rozwiązywania problemów, które wychodzą po drodze a nie proaktywnych działań, które od problemów uchronią. Kolory innych poziomów były prostrze do przebadania gdy, Graves i zespół tworzyli podstawy dynamiki spiralnej. Dodatkowo, turkus (teal) powstał jako połączenie poziomu żółtego (yellow) i turkusowego (turquoise). Podstawowe poziomy łatwo jest zastąpić jednym słowem, Turkus nie.
+
+Przyczyn niskiego sukcesu turkusu jest wiele. Trudność w przedstawieniu o co chodzi osobom niezorientowanym. Niska "wiralność" i brak efektu nowości. Brak punktu zaczepienia modelu na poziomach innych niż turkus. Przeskok fundamentów zwiększający ryzyko regresu kulturalnego. 
+
+Nie mniej jednak nie możemy zapominać o najważniejszej roli turkusu, jaką jest popularyzacja, przedstawienie i realizacja wizji i trudności wspólnymi siłami.
+
+## Dynamika spiralna i Poziom żółty
 
 Pamiętasz etapy a) b) c) d) teorii rozwoju organizacji? Każdy etap ująłem tych samych krokach aby przedstawić pewien wzór. Widzisz go? 
 
@@ -139,9 +168,11 @@ Pamiętasz etapy a) b) c) d) teorii rozwoju organizacji? Każdy etap ująłem ty
 4. Są tacy, którym podoba się przewaga złego wykorzystania. Są tacy, którzy obrażają się na nową metodę
 5. Powstaje kolejna potrzeba bezpieczeństwa, którą jedni próbują rozwiązać starymi metodami a inni tworzą nowe, konstruktywne.
 
-Ktoś jest przywiązany do jednej perspektywy, uważa, że jest najlepsza. Siła, Struktura, Wyniki, Relacje. Jeśli ta perspektywa zaczyna przeszkadzać, pojawia się przekonanie, że co najmniej coś z tą perspektywą jest nie tak lub totalnie może ją wyprzeć. Co przyczynia się do odkrycia nowej perspektywy.
+Ktoś jest przywiązany do jednej perspektywy, uważa, że jest najlepsza. Siła, Struktura, Wyniki, Relacje. Jeśli ta perspektywa zaczyna przeszkadzać, pojawia się przekonanie, że co najmniej coś z tą perspektywą jest nie tak lub totalnie może ją wyprzeć. Co koniec końców przyczynia się do odkrycia nowej perspektywy, ale głównie jest poprzedzone konfliktami osób utorzsamiających się przewagami konkretnego poziomów oraz widzących niekonstruktywne strony innych poziomów. 
 
 No więc teraz brakujący punkt d7. Jaki jest ten lepszy pomysł na punkt e)? 
+
+W konsekwencji można zauważyć, że każdy ma trochę racji i trochę jej nie ma. To znaczy, że...
 
 5
 4
@@ -149,25 +180,42 @@ No więc teraz brakujący punkt d7. Jaki jest ten lepszy pomysł na punkt e)?
 2
 1…
 
+... żadna z tych perspektyw nie jest lepsza od poprzedniej. Można doceniać je wszystkie i z nich korzystać narzędziowo. 
+
+Książka "Pracować inaczej" / "Reinventing Organizations" Fredelica Lalouxa korzysta z modelu dynamiki spiralnej. Dynamika spiralna zakładała jeszcze jeden poziom między poziomem zielonym a turkusowym, jest to poziom żółty, poziom integracji, narzędziowego i systemowego podejścia do korzystania z siły, struktur, wyników i relacji. 
+
+Frederic Laloux potrzebował potrzebował uprościć model, jest to zrozumiałe i w porządku. Dzięki jego wysiłkowi i wszystkich osób zaangażowanych przez ostatnie 12 lat mamy o czym rozmawiać i mamy pionierów z których możemy brać przykład. Osoby zaznajomione z tematem są świadome elementu integracji ale w definicji turkusu można go odkryć wchodząc w filar pełni.
+
+Ale to nie wszystko. Z relacją między poziomem żółtym i turkusowym jest pewien problem. 
+
+## Zwiększenie bezpieczeństwa i efektywności w organizacjach bez zmian strukturalnych
+
+Zauważyliśmy, że przekroczenie granicy poziomu w sposób skorumpowany  wydaje się potężniejsze, łatwe, zawsze znajdzie się kolejna mocniejsza perspektywa, która jest konstruktywna. 
+
 Przełomem jest spostrzeżenie, że każda z tych perspektyw ma granice, której przekroczenie wyrządza krzywde sobie i innym. 
 
-Mimo, że przekroczenie tej granicy i poziom w skorumpowanej formie wydaje się potężniejsze, łatwe, zawsze znajdzie się kolejna mocniejsza perspektywa, która jest konstruktywna.
+Źródła takie jak "Spiral Dynamics Integral" wspominają zdrowych i niezdrowych manifestacjach elementów, od czerwonego po zielony, żółty czy turkusowy (turquoise).
 
-W konsekwencji można zauważyć, że każda z tych perspektyw nie jest lepsza od poprzedniej. Można z nich korzystać narzędziowo, konstruktywnie, w zrównoważony sposób.
+Niestety nigdzie na <https://spiraldynamicsintegral.nl/en/turquoise/> nie znajdziemy dobrego momentu, by móc się przy tych skorumpowanych formach poziomów satrzymać.
 
-Źródła takie jak "Spiral Dynamics Integral" wspominają zdrowych i niezdrowych manifestacjach elementów, od czerwonego przez zielony, żółty czy turkusowy (turquoise) ale żadne znich nie określa dobrego miejca na to by się zatrzymać i skupić się na tej konstruktywności lub jej braku bez myślenia o kolejnym poziomie.
+Z perspektywy modelu to zrozumiałe. Najlepiej robić to jak najwcześniej. Ale turkus dystrybułuje zarządzanie. 
 
-Nawet gdy spostrzeżenie, że każdy z tych elementów modelu, perspektyw nie jest lepszy od poprzedniego i można z nich korzystać narzędziowo, jest traktowane jako poziom, osobny element.
+Jeśli komuś się udało zrównoważyć poziom przed wrzuceniem kolejnego do narzędziownika to super. Ale turkus to jest już przejście od hierarchii do struktur o zdecentralizowanym przywództwie.
 
-a jako kolejny poziom, jest już przejście od hierarchii do struktur o zdecentralizowanym przywództwie.
+To znaczy, że zwykłe oddelegowanie odpowiedzialności wiąże się z regresem kultury sprzężonym z brakiem wyregulowanych poszczególnych poziomów.
 
-Skupienie na tej równowadze **granic** pojedyńczych poziomów (nie między poziomami) jest brakującym ogniwem. Po docenieniu pojedynczych poprzednich poziomów i przed próbami z przywództwem zdecentralizowanym np. socjokracją. Bez tego ogniwa adopcja turkusu eksploduje bo przywództwo zdecentralizowane nie poradziło sobie jeszcze z niezdrowymi czy skorumpowanymi formami poprzednich elementów, poziomów. 
+To znaczy, że ostatni moment na stabilizację jest przed turkusem. Po poziomie żółtym gdy korzystamy już z wszystkich poziomów. Inaczej turkus nie jest w stanie się utrzymać.
 
-Tą równowagę granic, pracę nad granicami z wykorzystaniem wszystkich naturalnie funkcjonujących narzędzi bez ich odrzucania nazywam Awenturynem.
+Skupienie na tym równoważeniu **granic** pojedyńczych poziomów (nie między poziomami) jest brakującym ogniwem. 
 
-Organizacje mogą pracować nad tym brakującym ogniwem, stabilizacją perspektyw bez zmian struktur, hierarchi, bez odejścia od własnościowej sprawczości czy realizacji z góry ustalonych planów. 
+Po docenieniu pojedynczych poprzednich poziomów ( żółta integracja).
+Przed wejściem w holokrację czy socjokrację, (Turkusowa decentralizacja). 
 
-Danie sobie czasu na naukę nie przekraczania skorumpowanej granicy niezależnie od punktu, poziomu, narzędzia jest fundamentem po docenieniu wartości wszystkich poziomów natomiast dynamika spiralna oraz pochodne modele tego nie uwzględniają.
+Bez tego ogniwa adopcja turkusu eksploduje bo przywództwo zdecentralizowane staje cię polem dla niezarządzanych, skorumpowanych formam poprzednich elementów, poziomów. 
+
+## Wygładzenie progów komunikacyjnych
+
+Tak, abyśmy mogli się z tymi poziomami z satysfakcją identyfikować. Od razu, bez zmian, jako symbol zmniejszania ilości strat i błędów w klasycznej organizacji. 
 
 Dlatego Awenturyn jako brakujący poziom przed turkusem uczy odpowiedzialnie korzystać z klasycznych form zarządzania i organizacji pracy na wszystkich poprzednich poziomach.
 
@@ -179,6 +227,21 @@ Współdecyzyjność bez paraliżu konsensusu.
 Ekologię bez podwójnych standardów.
 
 
+## Awenturyn
+
+Dlatego ten poziom regulacji poprzednich poziomów, pracę nad granicami z wykorzystaniem wszystkich naturalnie funkcjonujących narzędzi bez ich odrzucania nazywam Awenturynem.
+
+Siła - Czerwony
+Struktura - Niebieski
+Wyniki - Pomarańczowy
+Relacje - Zielony
+Integracja - Żółty
+*Regulacja* - Awenturyn
+Decentralizacja - Turkus
+
+Organizacje mogą pracować nad tym brakującym ogniwem, stabilizacją perspektyw bez zmian struktur, hierarchi, bez odejścia od własnościowej sprawczości czy realizacji z góry ustalonych planów. 
+
+Danie sobie czasu na naukę nie przekraczania skorumpowanej granicy niezależnie od punktu, poziomu, narzędzia jest fundamentem po docenieniu wartości wszystkich poziomów natomiast dynamika spiralna oraz pochodne modele tego nie uwzględniają.
 
 ## Skąd nazwa Awenturyn?
 
@@ -218,6 +281,7 @@ Organizacja, która swoją kulturą pomaga pracownikom korzystać z różnych as
 
 Organizacja, która usprawnia swój system i kulturę, nagradza osoby, które się w tym doskonalą. Kapitalizuje równowagę i holistyczny zysk.
 
+
 ## Osoba Awenturynowa: cechy i praktyka
 
 Dąży do sukcesu konstruktywnie. Nie używa przemocy, nacisku ani presji społecznej tam, gdzie brakuje argumentu.
@@ -235,7 +299,6 @@ Mnoży współpracę, nie budując konkurencji wewnętrznej.
 Korzysta z różnych poziomów narzędziowo, bez wywyższania własnego etapu lub deprecjonowania innych. 
 
 
-
 ## Awenturyn jako publiczna przestrzeń edukacyjna
 
 Uważam, że formy takie jak Awenturyn w odniesieniu do organizacji powinny funkcjonować w przestrzeni publicznej. 
@@ -248,8 +311,7 @@ Tekst udostępniony na licencji Creative Commons Attribution (© Sebastian Rudni
 
 Sebastian Rudnicki pracuje na styku organizacji, struktur i biznesu. Jego podejście powstało z wieloletniej twórczej pracy w projektach między wczesnym etapem, wczesną większością oraz audytach biznesowych. Obserwacji tego, jak organizacje realnie funkcjonują, gdzie się blokują i dlaczego deklarowane modele nie przekładają się na rzeczywistość.
 
-Sebastian Rudnicki jako pierwszy opisał Awenturyn w roku 2026 jako rozwiązanie na wdrożeniową przepaść między autentycznym, funkcjonującym wewnętrznie turkusem a organizacjami zarządzanymi klasycznie i progresywnymi, bez rewolucji.
-
+Sebastian Rudnicki jako pierwszy opisał Awenturyn w lutym 2026 jako rozwiązanie na wdrożeniową przepaść między autentycznym, funkcjonującym wewnętrznie turkusem a organizacjami zarządzanymi klasycznie i progresywnymi, bez rewolucji.
 
 ___
 Strona: © Sebastian Rudnicki
