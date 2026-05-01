@@ -53,37 +53,37 @@ Czy jest coś, co mogło uchronić Twojego przodka, jego rodzinę i osadę od za
 6. Nie wiem, może trzeba odebrać sukces, mienie, strukturę siłą i oddać komuś innemu! Na szczęście ktoś już wpadł na lepszy pomysł.
 7. Nie można wspierać sukcesu czy oddawać struktur  byle komu, to powinien być ktoś, lub coś (np. marka) których wyniki są zbieżne z rzeczywistością i dobrymi opiniami innych ludzi?
 
-### d) Ludzie
 
-1. Dbanie o bezpośrednio o ludzi, świat i opinie daje bezpośrednie świadectwa.
-2. Co może pójść nie tak, gdy osoby czy zespoły za dobrze opanują dbanie o innych i opinie?
-3. Opinie mogą służyć jako dowód społeczny właściwej drogi, ale mogą również prowadzić do paraliżu decyzyjnego. Opinie można przekłamać, można również segregować ludzi na podstawie ich opinii. Lub co gorsza segregować ludzi na podstawie założeń co do ich opinii. Można również dyskryminować ludzi na podstawie ich opinii i działań. Można tworzyć fałszywe opinie na temat innych, te dobre lub te złe. Jeśli ktoś jest silny, to nie dba o ludzi. Jeśli ktoś tworzy struktury, nie dba o ludzi. Jeśli ktoś dba o wyniki, nie dba o ludzi.
+### d) Relacje
+
+1. Dbanie o bezpośrednio o relacje daje bezpośrednie świadectwa.
+2. Co może pójść nie tak, gdy osoby czy zespoły za dobrze opanują dbanie o relacje, opinie i reputacje?
+3. Relacje mogą służyć jako dowód społeczny właściwej drogi, ale mogą również prowadzić do paraliżu decyzyjnego. Opinie można przekłamać, można również segregować ludzi na podstawie ich opinii. Lub co gorsza segregować ludzi na podstawie założeń co do ich opinii. Można również dyskryminować ludzi na podstawie ich opinii i działań. Można tworzyć fałszywe opinie na temat innych, te dobre lub te złe. Jeśli ktoś jest silny, to nie dba o ludzi. Jeśli ktoś tworzy struktury, nie dba o ludzi. Jeśli ktoś dba o wyniki, nie dba o ludzi.
 4. Opinie innych mogą skorumpować. Można dojść do wniosku, że ludzie którzy posługują się opiniami ludzi, zespołu, klienta, osoby oddającej głos, są lepsi od tych którzy doceniają siłę, strukturę czy wyniki, lub dbanie o opinie innych ludzi jest złe.
 5. Czy jest coś, co może uchronić Twój kraj i zespół od korupcji opinii?
 6. Nie wiem może trzeba odebrać wszystko co zdobyte fałszywą opinią za pomocą siły i oddać komuś innemu! Na szczęście ktoś już wpadł na lepszy pomysł… 
 
 Masz pomysł na d7? Publikacją, która najbardziej spopularyzowała ten model razem z kolejnym jego elementem jest "Pracować inaczej" / "Reinventing Organizations" Frederica Lalouxa. Książka została wydana w 2014 r. i ma swoją Wiki na <https://reinventingorganizationswiki.com/pl/> Z innych źródeł, mogę wymienić <https://spiraldynamicsintegral.nl/en/turquoise/>. Nie jest przetłumaczona na język polski ale później co najmniej raz będę musiał się do tego odnieść. 
 
-W obu źródłach, które podałem, elementy modelu nie są określane bezpośrednio, tylko są określane przypisanym do nim kolorem. To niestety tworzy barierę komunikacyjną dlatego będę starał się usprawniać przedstawienie modelu bez kolorów oraz nie korzystać, aktualizować treści by w pierwszej kolejności nie posługiwały się kolorami.
+W obu źródłach, które podałem, elementy modelu nie są określane bezpośrednio, tylko są określane przypisanym do nim kolorem. To niestety tworzy barierę komunikacyjną dlatego będę starał się usprawniać przedstawienie modelu bez kolorów oraz nie korzystać, aktualizować treści by w pierwszej kolejności nie posługiwały się kolorami. Niemniej jednak nikt nie posługuje się hasłem alternatywnym do turkusu więc nakreślę o co chodzi.
 
 
-## "Turkus"
+## Samoorganizowanie wokół celu -Turkus
 
-w książce "Pracować inaczej" / "Reinventing Organizations" Frederica Lalouxa, kolejny element układanki jest nazywany turkusem lub w języku angielskim "Teal".  Od daty publikacji książki minęło 12 lat. W świecie biznesowym, przez lata turkus stał się znanym hasłem, ale i hasłem unikanym. 
+w książce "Pracować inaczej" / "Reinventing Organizations" Frederica Lalouxa, kolejny element układanki jest nazywany turkusem. Z języka angielskiego "Teal". Według definicji turkus składa się z trzech filarów. Samozarządzania, Osobistej Pełni oraz ewolucyjnego celu.
 
-Hasłem rozpoznawalnym dzięki chęciom zdrowszej i bardziej efektywnej pracy. Hasłem unikanym z uwagi na decentralizację władzy, brak oddzielenia turkusu od modeli własnościowych lub złe doświadczenia i brak rozwagi.
+- Zdecentralizowane zarządzanie - 
+  Organizacja działa bez klasycznej piramidy kontroli. Decyzje podejmowane są bliżej wiedzy, odpowiedzialności i celu, a nie zawsze „u góry”.
+- Pełnia - 
+  Ludzie mogą wnosić do pracy więcej siebie: emocje, intuicję, wartości, wrażliwość, ciało, relacje — nie tylko profesjonalną maskę.
+- Ewolucyjny cel - 
+  Organizacja jest traktowana jak żywy system z  własnym kierunkiem rozwoju. Ludzie nie tyle „wymyślają strategię”, ile słuchają, dokąd organizacja chce i powinna iść.
 
-Turkus ma aktualnie niskie prawdopodobieństwo sukcesu ale problem leży gdzieś indziej.
+Od daty publikacji książki minęło 12 lat. W świecie biznesowym, przez lata turkus stał się znanym hasłem, ale i hasłem unikanym. 
 
-W swojej książce Laloux mówi o wielu elementach składających się na model, nie tylko o turkusie. Natomiast żaden z innych poziomów z książki nie jest tak rozpoznawalny jak turkus. Jeśli zapytamy kogoś na natworkingu czy identyfikuje się z turkusem lub nie, raczej dostaniemy odpowiedź. Jeśli zapytamy się o identyfikację z innym poziomem, raczej nie dostaniemy odpowiedzi.
+Hasłem rozpoznawalnym dzięki chęciom zdrowszej i bardziej efektywnej pracy. Hasłem unikanym z uwagi na oddanie kontroli, brak oddzielenia turkusu od modeli własnościowych lub nieudane próby.
 
-Turkus, Teal, jest finezyjną nazwą. Niebieski czy pomarańczowy, nie jest tak unikalny, wymaga kontekstu rozmowy. Symbol ma wpływ na rozpoznawalność ale nie ma wpływu na szanse sukcesu turkusu wewnątrz.
-
-Tym, co ma wpływ na szanse sukcesu wewnątrz jest np. traktowanie turkusu jako celu lub lub nie. Nie trzeba "stawać się bardziej turkusowym" by korzystać z modelu. Nie trzeba przyjmować turkusu jako programu transformacji, tożsawości własnej czy tożsamości organizacji. 
-
-Turkus na mapie modelu jest punktem, kropką a nie celem. Natomiast przez pryzmat poziomu kultury biznesowej turkus okazał się jedynym widzialnym celem a korzystanie z modelu nie. To znaczy, że wyznaczając turkusowy cel samodoskonalenie na poziomie pomarańczowym nie istnieje a nieświadomy podział na lepsze i gorsze poziomy pozostaje. Mimo tego, że współczesne firmy korzystają z wielu poziomów na raz, zależnie od funkcji działu.
-
-Dlatego główną przyczyną niskiego sukcesu turkusu jest brak punktu zaczepienia modelu na poziomach innych niż turkus. Tak, abyśmy mogli się z tymi poziomami z satysfakcją identyfikować. Od razu, bez zmian, jako symbol zmniejszania ilości strat i błędów w klasycznej organizacji. 
+Turkus ma aktualnie niskie prawdopodobieństwo sukcesu ale problem leży gdzieś indziej niż w poziomie samym sobie. Przykładów starych, trudnych do złamania, turkusowych firm jest wiele. Niestety nieudanych prób osiągnięcia funkcjonującej w ten sposób firmy jest jeszcze więcej.
 
 ## Różne interpretacje Turkusu w praktyce
 
@@ -111,11 +111,35 @@ Negatywne doświadczenia uształtowały powszechną opinię.
 
 Pojedyncze firmy, zespoły i osoby pozostały z problemem, poradziły sobie z wyzwaniami i cieszą się nową normalnością. 
 
-## Zwiększenie bezpieczeństwa i efektywności w organizacjach bez wdrażania Turkusu 
+## Czemu Turkus okazał się trudny?
 
-Pamiętasz etapy a) b) c) d) teorii rozwoju organizacji? Widzisz wzór, który starałem się ująć równą liczbą kroków do kolejnego poziomu? 
+  ### Zapomniany model
+  W swojej książce Laloux mówi o wielu elementach modelu. Siła - Czerwony, Struktura - Niebieski, Wyniki - Pomarańczowy, Relacje - Zielony. Sam tytuł książki to nie "Turkus" tylko "Pracować inaczej" / "Reinventing Organizations". Mimo tego, żaden z tych poziomów z książki nie jest tak rozpoznawalny jak turkus. 
 
-Ktoś jest przywiązany do jednej perspektywy, uważa, że jest najlepsza. Siła, Struktura, Miara, Opinie. Jeśli ta perspektywa zaczyna przeszkadzać, pojawia się przekonanie, że co najmniej coś z tą perspektywą jest nie tak lub totalnie może ją wyprzeć. Co przyczynia się do odkrycia nowej perspektywy.
+  ### Zapomniane elementy
+
+  Turkus, Teal, jest finezyjną nazwą. Niebieski czy pomarańczowy, nie jest tak unikalny, wymaga kontekstu rozmowy. Symbol ma wpływ na rozpoznawalność ale nie ma wpływu na szanse sukcesu turkusu wewnątrz.
+
+  ### Zorientowanie na cel
+  W książce turkus jest ostatnim wspomnianym poziomem. Obiecuje wiele, między innymi większą konkurencyjność i wyniki bez negatywnych kompromisów czy zła koniecznego. Osoby potrafiące korzystać z poziomu rezultatów to doceniają. Niestety jak wiemy, każdy poziom w swojej neutralności może być konstruktywny i destruktywny. Przykładem jest pochopne dąrzenie do celu. Próba oparcia firmy tylko i wyłącznie o  delikatne zależności w kulturze podatnej na destrukcyjne formy poziomów.
+
+Tym, co ma wpływ na szanse sukcesu wewnątrz jest np. traktowanie turkusu jako celu lub lub nie. Nie trzeba "stawać się bardziej turkusowym" by korzystać z modelu. Nie trzeba przyjmować turkusu jako programu transformacji, tożsawości własnej czy tożsamości organizacji. 
+
+Turkus na mapie modelu jest punktem, kropką a nie celem. Natomiast przez pryzmat poziomu kultury biznesowej turkus okazał się jedynym widzialnym celem a korzystanie z modelu nie. To znaczy, że wyznaczając turkusowy cel samodoskonalenie na poziomie rezultatów, pomarańczowym, nie istnieje a nieświadomy podział na lepsze i gorsze poziomy pozostaje. Mimo tego, że współczesne firmy korzystają z wielu poziomów na raz, zależnie od funkcji działu.
+
+Dlatego główną przyczyną niskiego sukcesu turkusu jest brak punktu zaczepienia modelu na poziomach innych niż turkus. Tak, abyśmy mogli się z tymi poziomami z satysfakcją identyfikować. Od razu, bez zmian, jako symbol zmniejszania ilości strat i błędów w klasycznej organizacji. 
+
+## Zwiększenie bezpieczeństwa i efektywności w organizacjach bez zmian strukturalnych
+
+Pamiętasz etapy a) b) c) d) teorii rozwoju organizacji? Każdy etap ująłem tych samych krokach aby przedstawić pewien wzór. Widzisz go? 
+
+1. Potrzeba większego bezpieczeństwa
+2. Nowy konstruktywny sposób na zwiększenie bezpieczeństwa
+3. Nowy sposób okazuje się być narzędziem które można dobrze, konstruktywnie lub źle, destruktywnie wykorzystać.
+4. Są tacy, którym podoba się przewaga złego wykorzystania. Są tacy, którzy obrażają się na nową metodę
+5. Powstaje kolejna potrzeba bezpieczeństwa, którą jedni próbują rozwiązać starymi metodami a inni tworzą nowe, konstruktywne.
+
+Ktoś jest przywiązany do jednej perspektywy, uważa, że jest najlepsza. Siła, Struktura, Wyniki, Relacje. Jeśli ta perspektywa zaczyna przeszkadzać, pojawia się przekonanie, że co najmniej coś z tą perspektywą jest nie tak lub totalnie może ją wyprzeć. Co przyczynia się do odkrycia nowej perspektywy.
 
 No więc teraz brakujący punkt d7. Jaki jest ten lepszy pomysł na punkt e)? 
 
