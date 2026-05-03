@@ -254,7 +254,7 @@ Turkus to symbol zmiany organizacji. Kamień jest symbolem niezmienności.
 
 Awenturyczne migotanie oznacza błyszczenie poszczególnych płatków w szlachetny sposób, na różne kolory, w niezmiennym kamieniu. 
 
-A więc, nieprzypadkowo. Ostatni poziom klasycznej organizacji, jak awenturynowy kamień, jest symbolem tego, że nie organizacja klasyczna nie musi się zmienić w coś, czym nie jest, aby dumnie, wspólnie lśnić.
+A więc, nieprzypadkowo. Ostatni poziom klasycznej organizacji, jak awenturynowy kamień, jest symbolem tego, że nie organizacja klasyczna nie musi się zmienić w coś czym nie jest, aby dumnie wspólnie lśnić.
 
 ## Awenturyn w organizacjach zarządzanych klasycznie, przed rozważeniem turkusu
 
