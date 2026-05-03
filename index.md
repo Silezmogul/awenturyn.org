@@ -213,6 +213,8 @@ Przed wejściem w holokrację czy socjokrację, (Turkusowa decentralizacja).
 
 Bez tego ogniwa adopcja turkusu eksploduje bo przywództwo zdecentralizowane staje cię polem dla niezarządzanych, skorumpowanych formam poprzednich elementów, poziomów. 
 
+Bez tego ogniwa, ostatnią formą jest skorumpowana forma ogniwa relacji.
+
 ## Wygładzenie progów komunikacyjnych
 
 Tak, abyśmy mogli się z tymi poziomami z satysfakcją identyfikować. Od razu, bez zmian, jako symbol zmniejszania ilości strat i błędów w klasycznej organizacji. 
