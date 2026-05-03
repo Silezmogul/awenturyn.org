@@ -211,27 +211,23 @@ Skupienie na tym równoważeniu **granic** pojedyńczych poziomów (nie między 
 Po docenieniu pojedynczych poprzednich poziomów ( żółta integracja).
 Przed wejściem w holokrację czy socjokrację, (Turkusowa decentralizacja). 
 
-Bez tego ogniwa adopcja turkusu eksploduje bo przywództwo zdecentralizowane staje cię polem dla niezarządzanych, skorumpowanych formam poprzednich elementów, poziomów. 
+Bez tego ogniwa, adopcja turkusu eksploduje bo przywództwo zdecentralizowane staje cię polem dla niezarządzanych, skorumpowanych formam poprzednich elementów, poziomów. 
 
-Bez tego ogniwa, ostatnią formą jest skorumpowana forma ogniwa relacji.
+Bez tego ogniwa, ostatnią formą jest skorumpowana forma ogniwa relacji. Brzmi znajomo, prawda?
 
 ## Wygładzenie progów komunikacyjnych
 
-Tak, abyśmy mogli się z tymi poziomami z satysfakcją identyfikować. Od razu, bez zmian, jako symbol zmniejszania ilości strat i błędów w klasycznej organizacji. 
+Brakujące ogniwo to nie wszystko. Mamy dobrą lekcję, że nazwa wpływa na sukces z jakim nowe znaczenie jest przyjmowane. Turkus, wiadomo. Zieleń, nie wiadomo.
 
-Dlatego Awenturyn jako brakujący poziom przed turkusem uczy odpowiedzialnie korzystać z klasycznych form zarządzania i organizacji pracy na wszystkich poprzednich poziomach.
+Potrzebowaliśmy to brakujące ogniwo nazwać w unikalny, łatwy do zapamiętania sposób. 
 
-Ta odpowiedzialność i równowaga oznacza między innymi:
-Konkurowanie bez forsowania.
-Chęć zysku bez chciwości.
-Kulturę bez tabu.
-Współdecyzyjność bez paraliżu konsensusu.
-Ekologię bez podwójnych standardów.
-
+Przedstawić to brakujące ogniwo tak, abyśmy mogli się z nim z satysfakcją identyfikować. Bez wybierania obozu progresywnego lub klasycznego. Od razu, bez zmian, jako symbol zmniejszania ilości strat i błędów w klasycznej organizacji. 
 
 ## Awenturyn
 
-Dlatego ten poziom regulacji poprzednich poziomów, pracę nad granicami z wykorzystaniem wszystkich naturalnie funkcjonujących narzędzi bez ich odrzucania nazywam Awenturynem.
+Dlatego to brakujące ogniwo, poziom regulacji, nazywam Awenturynem.
+
+Awenturyn to poziom pracy nad granicami wykorzystania wszystkich naturalnie funkcjonujących poziomów. 
 
 Siła - Czerwony
 Struktura - Niebieski
@@ -241,22 +237,24 @@ Integracja - Żółty
 *Regulacja* - Awenturyn
 Decentralizacja - Turkus
 
-Organizacje mogą pracować nad tym brakującym ogniwem, stabilizacją perspektyw bez zmian struktur, hierarchi, bez odejścia od własnościowej sprawczości czy realizacji z góry ustalonych planów. 
+Ta odpowiedzialność i równowaga oznacza między innymi:
+Konkurowanie bez forsowania.
+Struktura bez stołków.
+Zysk bez chciwości.
+Uznanie bez iluzji.
+Integracje bez paraliżu.
 
-Danie sobie czasu na naukę nie przekraczania skorumpowanej granicy niezależnie od punktu, poziomu, narzędzia jest fundamentem po docenieniu wartości wszystkich poziomów natomiast dynamika spiralna oraz pochodne modele tego nie uwzględniają.
+Organizacje mogą pracować nad tym brakującym ogniwem, stabilizacją perspektyw bez zmian struktur, hierarchi, bez odejścia od własnościowej sprawczości czy realizacji z góry ustalonych planów. 
 
 ## Skąd nazwa Awenturyn?
 
-"Awenturyn"(Ang. Aventurine) pochodzi od włoskiego wyrażenia a ventura lub all'avventura, co oznacza „przez przypadek”. Odnosi się do przypadkowego odkrycia pięknego migoczącego szkła powstałego w wyniku zmieszania szkła z opiłkami miedzi. 
+Awenturyzacja to nazwa na jeden ze sposobów w jaki kamienie szlachetne lub szkło zawdzięczają swój efekt migotania. Awenturyn to również migocząca odmiana kwarcu występująca w różnych kolorach.
 
-Awenturyzacja to nazwa na jeden ze sposobów w jaki kamienie szlachetne lub szkło zawdzięczają swój efekt migotania. Awenturyn to również odmiana kwarcu, która migocze w podobny sposób. Występuje w różnych barwach, również w kolorze żółtym.
-
-Turkus to symbol zmiany organizacji. Kamień jest symbolem niezmienności, również symbolem tego, że organizacja nie musi się zmieniać. 
+Turkus to symbol zmiany organizacji. Kamień jest symbolem niezmienności. 
 
 Awenturyczne migotanie oznacza błyszczenie poszczególnych płatków w szlachetny sposób, na różne kolory, w niezmiennym kamieniu. 
 
-A więc, nieprzypadkowo, awenturyn w kontekście organizacyjnym to dla mnie szlachetne, wielokolorowe, zrównoważone migotanie i szczęście osób w organizacji, która jak awenturynowy kamień, nie musiała się zmienić w coś, czym nie jest, aby wspólnie lśnić.
-
+A więc, nieprzypadkowo. Ostatni poziom klasycznej organizacji, jak awenturynowy kamień, jest symbolem tego, że nie organizacja klasyczna nie musi się zmienić w coś, czym nie jest, aby dumnie, wspólnie lśnić.
 
 ## Awenturyn w organizacjach zarządzanych klasycznie, przed rozważeniem turkusu
 
