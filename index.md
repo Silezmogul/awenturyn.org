@@ -246,13 +246,13 @@ Integracje bez paraliżu.
 
 Awenturyn to ostatni moment na wypracowanie granic wykorzystania wszystkich naturalnie funkcjonujących poziomów. 
 
-Siła - Czerwony
-Struktura - Niebieski
-Wyniki - Pomarańczowy
-Relacje - Zielony
-Integracja - Żółty
-*Regulacja* - Awenturyn
-Decentralizacja - Turkus
+- Siła - Czerwony
+- Struktura - Niebieski
+- Wyniki - Pomarańczowy
+- Relacje - Zielony
+- Integracja - Żółty
+- *Regulacja* - Awenturyn
+- Decentralizacja - Turkus
 
 ## Skąd nazwa Awenturyn?
 
@@ -262,7 +262,7 @@ Turkus to symbol zmiany organizacji. Kamień jest symbolem niezmienności.
 
 Awenturyczne migotanie oznacza błyszczenie poszczególnych płatków w szlachetny sposób, na różne kolory, w niezmiennym kamieniu. 
 
-A więc, nieprzypadkowo. Ostatni poziom klasycznej organizacji, jak awenturynowy kamień, jest symbolem tego, że nie organizacja klasyczna nie musi się zmienić w coś czym nie jest, aby dumnie wspólnie lśnić.
+A więc, nieprzypadkowo. Ostatni poziom klasycznej organizacji, jak awenturynowy kamień, jest symbolem tego, że organizacja klasyczna nie musi się zmienić w coś czym nie jest, aby dumnie wspólnie lśnić.
 
 ## Kontakt
 
