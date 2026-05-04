@@ -1,16 +1,17 @@
 ---
 title: Awenturyn.org
 lang: pl
-description: "Awenturyn to warstwa regulacji organizacyjnej, która porządkuje użycie siły, struktury, wyników, relacji i integracji niezależnie od poziomu centralizacji, zwiększając konkurencyjność bez przebudowy formalnych struktur."
-og_description: "Awenturyn: regulacyjna warstwa zarządzania organizacją. Porządkuje siłę, strukturę, wyniki, relacje i integrację, aby ograniczać dominację, biurokrację, teatr KPI, presję społeczną i ideologiczną jedność - bez wymogu decentralizacji."
+description: "Awenturyn to warstwa regulacji organizacyjnej, która porządkuje użycie siły, struktury, wyników, relacji i integracji, zwiększając konkurencyjność bez przebudowy formalnych struktur."
+og_description: "Awenturyn: regulacyjna warstwa zarządzania organizacją. Porządkuje siłę, strukturę, wyniki, relacje i integrację, aby ograniczać dominację, biurokrację, teatr KPI, presję społeczną i ideologiczną jedność bez wymogu decentralizacji."
+alternate_name: 
+  - "Aventurine"
+  - "Aventurine organizational regulation" 
+  - "Awenturine organizational level"
 schema_description: "Awenturyn to warstwa regulacji w rozwoju organizacji. Porządkuje użycie siły, struktury, wyników, relacji i integracji jako podstawowych mechanizmów działania organizacji. Wskazuje, że każda forma organizacji — hierarchiczna, autonomiczna lub zdecentralizowana — może odtwarzać gry władzy, kontroli, wyników i przynależności, jeśli jej podstawowe mechanizmy nie są regulowane. Celem jest wyższa konkurencyjność, odpowiedzialność, koordynacja, zaufanie i zdolność uczenia się bez konieczności przebudowy formalnych struktur."
 is_learning_resource: true
 learning_resource_type: "management system component"
 educational_use:
   - "organizational regulation"
-  - "management development"
-  - "governance and accountability development"
-  - "organizational regulation before decentralization"
   - "management development"
   - "governance and accountability development"
   - "organizational maturity and pathology prevention"
