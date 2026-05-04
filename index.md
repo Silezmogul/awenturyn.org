@@ -18,9 +18,9 @@ teaches:
 
 # Awenturyn: brakujące ogniwo ścieżki rozwoju organizacji
 
-## Teoria rozwoju organizacji
+## Model rozwoju organizacji
 
-Awenturyn to element większej układanki. Postaram się przedstawić tą układankę, teorię rozwoju organizacji najkrócej jak tylko umiem. Wyobraź sobie świat prehistoryczny. W nim twój przodek, chciał zapewnić bezpieczeństwo sobie, bliższej i dalszej rodzinie. 
+Awenturyn to element większej układanki. Postaram się przedstawić tą układankę, model rozwoju organizacji najkrócej jak tylko umiem. Wyobraź sobie świat prehistoryczny. W nim twój przodek, chciał zapewnić bezpieczeństwo sobie, bliższej i dalszej rodzinie. 
 Czy jest coś, co mogło uchronić Twojego przodka, jego rodzinę i osadę od zagrożeń?
 
 
@@ -160,7 +160,7 @@ Nie mniej jednak nie możemy zapominać o najważniejszej roli turkusu, jaką je
 
 ## Dynamika spiralna i Poziom żółty
 
-Pamiętasz etapy a) b) c) d) teorii rozwoju organizacji? Każdy etap ująłem tych samych krokach aby przedstawić pewien wzór. Widzisz go? 
+Pamiętasz etapy a) b) c) d) modelu rozwoju organizacji? Każdy etap ująłem tych samych krokach aby przedstawić pewien wzór. Widzisz go? 
 
 1. Potrzeba większego bezpieczeństwa
 2. Nowy konstruktywny sposób na zwiększenie bezpieczeństwa
