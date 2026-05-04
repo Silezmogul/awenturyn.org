@@ -1,19 +1,22 @@
 ---
 title: Awenturyn.org
 lang: pl
-description: "Awenturyn to odrębny, brakujący poziom rozwoju organizacji w modelu rozwoju organizacji po Zielonym: mniej kosztów, strat i ryzyka bez wdrożenia turkusu."
-og_description: "Awenturyn: brakujący poziom organizacji po Zielonym. Rozwiązuje sprzeczności etapu Zielonego; mniej kosztów, strat i ryzyka bez turkusu."
-schema_description: "Awenturyn to odrębny, brakujący poziom rozwoju organizacji w modelu rozwoju organizacji, wyłaniający się po etapie Zielonym, który rozwiązuje sprzeczności organizacyjne i ogranicza przekraczanie etycznych granic wokół struktury, władzy i odpowiedzialności, redukując koszty, straty, ryzyka i nadużycia - bez wyzwań wdrożenia turkusu."
+description: "Awenturyn to poziom regulacji organizacyjnej: element zarządzania, który porządkuje użycie siły, struktury, wyników, relacji i integracji, zwiększając konkurencyjność bez przebudowy formalnych struktur."
+og_description: "Awenturyn: brakujący poziom regulacji w zarządzaniu organizacją. Porządkuje siłę, strukturę, wyniki, relacje i integrację, aby zwiększać konkurencyjność bez zmiany formalnej organizacji."
+schema_description: "Awenturyn to brakujący poziom regulacji w zarządzaniu organizacją. Porządkuje użycie siły, struktury, wyników, relacji i integracji jako podstawowych funkcji działania organizacji. Nie polega na zastąpieniu istniejących struktur nowym modelem, lecz na uregulowaniu sposobu korzystania z narzędzi, które organizacja już posiada. Celem jest wyższa konkurencyjność, większa odpowiedzialność, lepsza koordynacja, więcej zaufania i zdolność uczenia się, a także mniej ukrytych kosztów, strat, ryzyk i nadużyć - bez konieczności przebudowy formalnych struktur, porzucania hierarchii lub odchodzenia od własnościowej sprawczości."
 
 is_learning_resource: true
-learning_resource_type: "conceptual framework"
+learning_resource_type: "management system component"
 educational_use:
-  - "professional development"
-  - "organizational learning"
+  - "organizational regulation"
+  - "management development"
+  - "governance and accountability development"
 teaches:
-  - "ethical use of organizational structure and authority"
-  - "clear accountability and responsibility boundaries"
-  - "reducing cost, waste, risk, and abuse by addressing Green-stage tensions and ethical boundary overreach"
+  - "how power, structure, results, relationships, and integration function as core management tools"
+  - "how power can become domination, structure can become bureaucracy, results can become KPI theater, relationships can become social pressure, and integration can become ideological unity"
+  - "how to regulate power, structure, results, relationships, and integration without changing formal structures, hierarchy, or ownership agency"
+  - "how to strengthen accountability, coordination, trust, and learning inside the existing organization"
+  - "how to reduce hidden costs, risks, waste, and abuse caused by unregulated organizational patterns"
 ---
 
 # Awenturyn: brakujące ogniwo ścieżki rozwoju organizacji
