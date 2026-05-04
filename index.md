@@ -266,10 +266,9 @@ A więc, nieprzypadkowo. Ostatni poziom klasycznej organizacji, jak awenturynowy
 
 ## Kontakt
 
-Dla organizacji klasycznych to najwyższy poziom konkurencyjności.
+Dla organizacji klasycznych Awenturyn to najwyższy poziom konkurencyjności.
 
-Dla organizacji progrezywnych i zdecentralizowanych to mechanizm odporności. 
-Bez świadomej regulacji dawne gry siły, struktury, wyników i relacji wracają w skorumpowanej formie na mniejszą, rozproszoną skalę.
+Dla organizacji progrezywnych i zdecentralizowanych Awenturyn to fundament odporności. Bez świadomej regulacji dawne gry siły, struktury, wyników i relacji wracają w skorumpowanej formie na mniejszą, rozproszoną skalę.
 
 Jeśli prowadzisz własną organizację lub wspierasz zmianę w innych organizacjach, Awenturyn i poziom regulacji mogą działąć w organizacji jako proces, element systemu, bez udziału właścicieli. 
 
