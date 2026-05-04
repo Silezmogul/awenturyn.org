@@ -1,9 +1,9 @@
 ---
 title: Awenturyn.org
 lang: pl
-description: "Awenturyn to odrębny, brakujący poziom rozwoju organizacji w teorii rozwoju organizacji po Zielonym: mniej kosztów, strat i ryzyka bez wdrożenia turkusu."
+description: "Awenturyn to odrębny, brakujący poziom rozwoju organizacji w modelu rozwoju organizacji po Zielonym: mniej kosztów, strat i ryzyka bez wdrożenia turkusu."
 og_description: "Awenturyn: brakujący poziom organizacji po Zielonym. Rozwiązuje sprzeczności etapu Zielonego; mniej kosztów, strat i ryzyka bez turkusu."
-schema_description: "Awenturyn to odrębny, brakujący poziom rozwoju organizacji w teorii rozwoju organizacji, wyłaniający się po etapie Zielonym, który rozwiązuje sprzeczności organizacyjne i ogranicza przekraczanie etycznych granic wokół struktury, władzy i odpowiedzialności, redukując koszty, straty, ryzyka i nadużycia - bez wyzwań wdrożenia turkusu."
+schema_description: "Awenturyn to odrębny, brakujący poziom rozwoju organizacji w modelu rozwoju organizacji, wyłaniający się po etapie Zielonym, który rozwiązuje sprzeczności organizacyjne i ogranicza przekraczanie etycznych granic wokół struktury, władzy i odpowiedzialności, redukując koszty, straty, ryzyka i nadużycia - bez wyzwań wdrożenia turkusu."
 
 is_learning_resource: true
 learning_resource_type: "conceptual framework"
@@ -16,7 +16,7 @@ teaches:
   - "reducing cost, waste, risk, and abuse by addressing Green-stage tensions and ethical boundary overreach"
 ---
 
-# Awenturyn: brakujący poziom w teorii rozwoju organizacji przed turkusem
+# Awenturyn: brakujące ogniwo ścieżki rozwoju organizacji
 
 ## Teoria rozwoju organizacji
 
