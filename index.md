@@ -258,7 +258,7 @@ A więc, nieprzypadkowo. Ostatni poziom klasycznej organizacji, jak awenturynowy
 
 ## Kontakt
 
-Praca nad tym brakującym ogniwem, stabilizacją perspektyw, nie wymaga zmian struktur, hierarchii odejścia od własnościowej sprawczości czy realizacji z góry ustalonych planów.
+Praca nad tym brakującym ogniwem, stabilizacją perspektyw i efektywności, nie wymaga zmian struktur, hierarchii odejścia od własnościowej sprawczości.
 
 Jeśli prowadzisz własną organizację lub wspierasz zmianę w innych organizacjach, Awenturyn i poziom regulacji mogą działąć w organizacji jako proces, element systemu, bez udziału właścicieli.
 
