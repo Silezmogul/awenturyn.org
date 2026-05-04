@@ -256,7 +256,7 @@ Decentralizacja - Turkus
 
 ## Skąd nazwa Awenturyn?
 
-Awenturyzacja to nazwa na jeden ze sposobów w jaki kamienie szlachetne lub szkło zawdzięczają swój efekt migotania. Awenturyn to również migocząca odmiana kwarcu występująca w różnych kolorach.
+Awenturyzacja to nazwa szczególnej formy migotania kamieni szlachetnych. Awenturyn to również migoczący kwarc występujący w różnych kolorach.
 
 Turkus to symbol zmiany organizacji. Kamień jest symbolem niezmienności. 
 
