@@ -152,7 +152,7 @@ Pojedyncze firmy, zespoły i osoby pozostały z problemem, poradziły sobie z wy
 
 ### Upakowanie wielu aspektów rozprasza skupienie.
 
-  Turkus świetnie funkcjonuje jako wizja. Natomiast turkus okazał się być rezultatem różnych, różnie udokumentowanych, słabo przetartych szlaków. Przez te wszystkie lata niektóre osoby zdobyły niesamowitą ilość narzędzi rozwiązując pojedyncze problemy firm. Dotarcie do tych osób nie jest trudne, natomiast temat dalej jest związany z perspektywą rozwiązywania problemów, które wychodzą po drodze a nie proaktywnych działań, które od problemów uchronią. Kolory innych poziomów były prostrze do przebadania gdy, Graves i zespół tworzyli podstawy dynamiki spiralnej. Dodatkowo, turkus (teal) powstał jako połączenie poziomu żółtego (yellow) i turkusowego (turquoise). Podstawowe poziomy łatwo jest zastąpić jednym słowem, Turkus nie.
+  Turkus przedstawiony w książce Frederica Lalouxa świetnie funkcjonuje jako wizja. Natomiast turkus okazał się być określeniem-parasolem różnych, różnie udokumentowanych, słabo przetartych szlaków. Przez te wszystkie lata niektóre osoby zdobyły niesamowitą ilość narzędzi rozwiązując pojedyncze problemy firm. Dotarcie do tych osób nie jest trudne, natomiast temat dalej jest związany z perspektywą rozwiązywania problemów, które wychodzą po drodze a nie proaktywnych działań, które od problemów uchronią. Kolory innych poziomów były prostrze do przebadania gdy, Graves i zespół tworzyli podstawy dynamiki spiralnej. Dodatkowo, turkus (teal) powstał jako połączenie poziomu żółtego (yellow) i turkusowego (turquoise). Podstawowe poziomy łatwo jest zastąpić jednym słowem, Turkus nie.
 
 Przyczyn niskiego sukcesu turkusu jest wiele. Trudność w przedstawieniu o co chodzi osobom niezorientowanym. Niska "wiralność" i brak efektu nowości. Brak punktu zaczepienia modelu na poziomach innych niż turkus. Przeskok fundamentów zwiększający ryzyko regresu kulturalnego. 
 
@@ -180,15 +180,17 @@ W konsekwencji można zauważyć, że każdy ma trochę racji i trochę jej nie 
 2
 1…
 
-... żadna z tych perspektyw nie jest lepsza od poprzedniej. Można doceniać je wszystkie i z nich korzystać narzędziowo. 
+... żadna z tych perspektyw nie jest lepsza od poprzedniej. Można doceniać je wszystkie i z nich korzystać narzędziowo. Jes to jeden z aspektów turkusu wg. Frederica Laloux'a.
 
-Książka "Pracować inaczej" / "Reinventing Organizations" Fredelica Lalouxa korzysta z modelu dynamiki spiralnej. Dynamika spiralna zakładała jeszcze jeden poziom między poziomem zielonym a turkusowym, jest to poziom żółty, poziom integracji, narzędziowego i systemowego podejścia do korzystania z siły, struktur, wyników i relacji. 
+Książka "Pracować inaczej" / "Reinventing Organizations" korzysta z modelu dynamiki spiralnej. Dynamika spiralna zakładała jeszcze jeden poziom między poziomem zielonym a turkusowym, jest to poziom żółty, poziom integracji, narzędziowego i systemowego podejścia do korzystania z siły, struktur, wyników i relacji. Czyli poziom dedykowany dla doceniania poziomów jako narzędzi.
 
 Frederic Laloux potrzebował potrzebował uprościć model, jest to zrozumiałe i w porządku. Dzięki jego wysiłkowi i wszystkich osób zaangażowanych przez ostatnie 12 lat mamy o czym rozmawiać i mamy pionierów z których możemy brać przykład. Osoby zaznajomione z tematem są świadome elementu integracji ale w definicji turkusu można go odkryć wchodząc w filar pełni.
 
-Ale to nie wszystko. Z relacją między poziomem żółtym i turkusowym jest pewien problem. 
+Więc filar pełni wg. Turkusu Laloux'a to poziom żółty wg. dynamiki spiralnej.
 
-## Zwiększenie bezpieczeństwa i efektywności w organizacjach bez zmian strukturalnych
+Ale to nie wszystko. Z relacją między filarem pełni a turkusem (teal), lub inaczej z poziomem żółtym i turkusowym (turquoise) jest pewien problem. 
+
+## Brakujące ogniwo zwiększające bezpieczeństwo i efektywność w organizacjach bez zmian strukturalnych
 
 Zauważyliśmy, że przekroczenie granicy poziomu w sposób skorumpowany  wydaje się potężniejsze, łatwe, zawsze znajdzie się kolejna mocniejsza perspektywa, która jest konstruktywna. 
 
@@ -227,7 +229,14 @@ Przedstawić to brakujące ogniwo tak, abyśmy mogli się z nim z satysfakcją i
 
 Dlatego to brakujące ogniwo, poziom regulacji, nazywam Awenturynem.
 
-Awenturyn to poziom pracy nad granicami wykorzystania wszystkich naturalnie funkcjonujących poziomów. 
+Ta równowaga oznacza między innymi:
+Konkurowanie bez forsowania.
+Struktura bez stołków.
+Zysk bez chciwości.
+Uznanie bez iluzji.
+Integracje bez paraliżu.
+
+Awenturyn to ostatni moment na wypracowanie granic wykorzystania wszystkich naturalnie funkcjonujących poziomów. 
 
 Siła - Czerwony
 Struktura - Niebieski
@@ -236,15 +245,6 @@ Relacje - Zielony
 Integracja - Żółty
 *Regulacja* - Awenturyn
 Decentralizacja - Turkus
-
-Ta odpowiedzialność i równowaga oznacza między innymi:
-Konkurowanie bez forsowania.
-Struktura bez stołków.
-Zysk bez chciwości.
-Uznanie bez iluzji.
-Integracje bez paraliżu.
-
-Organizacje mogą pracować nad tym brakującym ogniwem, stabilizacją perspektyw bez zmian struktur, hierarchi, bez odejścia od własnościowej sprawczości czy realizacji z góry ustalonych planów. 
 
 ## Skąd nazwa Awenturyn?
 
@@ -256,62 +256,29 @@ Awenturyczne migotanie oznacza błyszczenie poszczególnych płatków w szlachet
 
 A więc, nieprzypadkowo. Ostatni poziom klasycznej organizacji, jak awenturynowy kamień, jest symbolem tego, że nie organizacja klasyczna nie musi się zmienić w coś czym nie jest, aby dumnie wspólnie lśnić.
 
-## Awenturyn w organizacjach zarządzanych klasycznie, przed rozważeniem turkusu
+## Kontakt
 
-Awenturyn jako poziom widzę przed turkusem inspirując się książką Pracować Inaczej, AQAL czy Dynamiką Spiralną. Opisuje warunki strukturalne i praktyczne, które muszą zaistnieć razem z granicami u osoby lub organizacji zarządzanej klasycznie, zanim możliwe stanie się sensowne rozważanie wdrażania rewolucyjnych struktur turkusowych.
+Praca nad tym brakującym ogniwem, stabilizacją perspektyw, nie wymaga zmian struktur, hierarchii odejścia od własnościowej sprawczości czy realizacji z góry ustalonych planów.
 
-Nie skupia się tylko na korzystaniu z różnych poziomów, tak, jak mówi o tym poziom żółty. Nie zakłada własności pracowniczej ani nie definiuje „celu ewolucyjnego”. 
+Jeśli prowadzisz własną organizację lub wspierasz zmianę w innych organizacjach, Awenturyn i poziom regulacji mogą działąć w organizacji jako proces, element systemu, bez udziału właścicieli.
 
-Awenturyn dba o systemową równowagę, konstruktywne i etyczne granice wszystkich naturalnie funkcjonujących narzędzi.
-
-## Zieleń, Awenturyn a Turkus: porównanie poziomów
-
-Zieleń to ekologia, bezpieczeństwo psychologiczne, konsensus i proklienckość. Jak i przekraczanie etycznych granic, uświęcając środki celem. W swojej inkluzywności ostracyzm, odrzucenie osób, które myślą i funkcjonują inaczej. Lub gdy ekologia staje się mechanizmem deprawacji suwerenności energetycznej wybranych państw.
-
-Awenturyn to świadoma praca nad tym co jest etyczne w zieleni a co już nie. Co jest etyczne w pomarańczu a co już nie. Czyli nie granice między poziomami i godzenie poziomów a granice wewnątrz poziomów.
-
-Turkus to zmiana paradygmatu organizacji zarządzanych klasycznie i progresywnych do holokracji, ewolucyjnego celu czy wspólnoty pracowniczej.
-
-
-## Organizacja awenturynowa: praktyczne zastosowania
-
-Organizacja, która korzysta w zrównoważonej formie z bezpieczeństwa, motywacji, struktury, zysku, mechanizmów społecznych i konkurencyjności ale i chroni organizacje od ich niezdrowych skrajności oraz walki między aspektami, w sposób systemowy.
-
-Organizacja, która swoją kulturą pomaga pracownikom korzystać z różnych aspektów ale przede wszystkim znać ich granice.
-
-Organizacja, która usprawnia swój system i kulturę, nagradza osoby, które się w tym doskonalą. Kapitalizuje równowagę i holistyczny zysk.
-
-
-## Osoba Awenturynowa: cechy i praktyka
-
-Dąży do sukcesu konstruktywnie. Nie używa przemocy, nacisku ani presji społecznej tam, gdzie brakuje argumentu.
-
-Dąży do zysku, nie popadając w chciwość.
-
-Korzysta ze struktur bez przywiązania do pozycji i hierarchii.
-
-Używa danych odpowiedzialnie, nie czcząc ich wyższości ani nie zrzucając na nie odpowiedzialności.
-
-Docenia jawność i relacje, nie wciągając innych w paradoks konsensusu.
-
-Mnoży współpracę, nie budując konkurencji wewnętrznej.
-
-Korzysta z różnych poziomów narzędziowo, bez wywyższania własnego etapu lub deprecjonowania innych. 
+Jeśli chcesz porozmawiać o Awenturynie, poziomie regulacji, możesz do mnie napisać na Linkedin: <https://www.linkedin.com/in/seb-rudnicki/>
 
 
 ## Awenturyn jako publiczna przestrzeń edukacyjna
 
 Uważam, że formy takie jak Awenturyn w odniesieniu do organizacji powinny funkcjonować w przestrzeni publicznej. 
 
-Dlatego publikuję powyższą treść oraz definicję awenturynu, poziomu awenturynowego i organizacji awenturynowej w wielu językach jako dobro wspólne, dostępne do swobodnego użycia, z zachowaniem informacji o autorze.
+Dlatego publikuję powyższą treść poziomu regulacji, definicję awenturynu, poziomu awenturynowego i organizacji awenturynowej w wielu językach jako dobro wspólne, dostępne do swobodnego użycia, z zachowaniem informacji o autorze.
 Tekst udostępniony na licencji Creative Commons Attribution (© Sebastian Rudnicki CC BY 4.0).
-
 
 ## O autorze
 
-Sebastian Rudnicki pracuje na styku organizacji, struktur i biznesu. Jego podejście powstało z wieloletniej twórczej pracy w projektach między wczesnym etapem, wczesną większością oraz audytach biznesowych. Obserwacji tego, jak organizacje realnie funkcjonują, gdzie się blokują i dlaczego deklarowane modele nie przekładają się na rzeczywistość.
+Sebastian Rudnicki pracuje na styku organizacji, struktur i biznesu. Jego podejście powstało z wieloletniej pracy z organizacjami na różnych etapach rozwoju. Od wczesnej fazy, przez skalowanie, po audyty biznesowe.  Obserwacji tego, jak organizacje realnie funkcjonują, gdzie się blokują i dlaczego deklarowane modele nie przekładają się na rzeczywistość.
 
 Sebastian Rudnicki jako pierwszy opisał Awenturyn w lutym 2026 jako rozwiązanie na wdrożeniową przepaść między autentycznym, funkcjonującym wewnętrznie turkusem a organizacjami zarządzanymi klasycznie i progresywnymi, bez rewolucji.
+
+
 
 ___
 Strona: © Sebastian Rudnicki
