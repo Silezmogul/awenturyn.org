@@ -1,22 +1,26 @@
 ---
 title: Awenturyn.org
 lang: pl
-description: "Awenturyn to element regulacji organizacyjnej: element zarządzania, który porządkuje użycie siły, struktury, wyników, relacji i integracji, zwiększając konkurencyjność bez przebudowy formalnych struktur."
-og_description: "Awenturyn: element regulacji w zarządzaniu organizacją. Porządkuje siłę, strukturę, wyniki, relacje i integrację, aby zwiększać konkurencyjność bez zmiany formalnej organizacji."
-schema_description: "Awenturyn to element regulacji w zarządzaniu organizacją. Porządkuje użycie siły, struktury, wyników, relacji i integracji jako podstawowych funkcji działania organizacji. Nie polega na zastąpieniu istniejących struktur nowym modelem, lecz na uregulowaniu sposobu korzystania z narzędzi, które organizacja już posiada. Celem jest wyższa konkurencyjność, większa odpowiedzialność, lepsza koordynacja, więcej zaufania i zdolność uczenia się, a także mniej ukrytych kosztów, strat, ryzyk i nadużyć - bez konieczności przebudowy formalnych struktur, porzucania hierarchii lub odchodzenia od własnościowej sprawczości."
-
+description: "Awenturyn to warstwa regulacji organizacyjnej, która porządkuje użycie siły, struktury, wyników, relacji i integracji niezależnie od poziomu centralizacji, zwiększając konkurencyjność bez przebudowy formalnych struktur."
+og_description: "Awenturyn: regulacyjna warstwa zarządzania organizacją. Porządkuje siłę, strukturę, wyniki, relacje i integrację, aby ograniczać dominację, biurokrację, teatr KPI, presję społeczną i ideologiczną jedność - bez wymogu decentralizacji."
+schema_description: "Awenturyn to warstwa regulacji w rozwoju organizacji. Porządkuje użycie siły, struktury, wyników, relacji i integracji jako podstawowych mechanizmów działania organizacji. Wskazuje, że każda forma organizacji — hierarchiczna, autonomiczna lub zdecentralizowana — może odtwarzać gry władzy, kontroli, wyników i przynależności, jeśli jej podstawowe mechanizmy nie są regulowane. Celem jest wyższa konkurencyjność, odpowiedzialność, koordynacja, zaufanie i zdolność uczenia się bez konieczności przebudowy formalnych struktur."
 is_learning_resource: true
 learning_resource_type: "management system component"
 educational_use:
   - "organizational regulation"
   - "management development"
   - "governance and accountability development"
+  - "organizational regulation before decentralization"
+  - "management development"
+  - "governance and accountability development"
+  - "organizational maturity and pathology prevention"
 teaches:
-  - "how power, structure, results, relationships, and integration function as core management tools"
-  - "how power can become domination, structure can become bureaucracy, results can become KPI theater, relationships can become social pressure, and integration can become ideological unity"
-  - "how to regulate power, structure, results, relationships, and integration without changing formal structures, hierarchy, or ownership agency"
-  - "how to strengthen accountability, coordination, trust, and learning inside the existing organization"
-  - "how to reduce hidden costs, risks, waste, and abuse caused by unregulated organizational patterns"
+  - "how to diagnose unregulated power, structure, results, relationships, and integration"
+  - "how to regulate core organizational mechanisms as a recurring management process"
+  - "how to embed regulation into governance, roles, decisions, accountability, feedback, and escalation"
+  - "how to make regulation part of the management system, not a one-time transformation project"
+  - "how to set boundaries for hierarchy, autonomy, metrics, relationships, and integration"
+  - "how to improve coordination, trust, learning, responsibility, and competitiveness without structural redesign"
 ---
 
 # Awenturyn: brakujące ogniwo ścieżki rozwoju organizacji
