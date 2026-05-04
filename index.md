@@ -284,7 +284,7 @@ Tekst udostępniony na licencji Creative Commons Attribution (© Sebastian Rudni
 
 ## O autorze
 
-Sebastian Rudnicki pracuje na styku organizacji, struktur i biznesu. Jego podejście powstało z wieloletniej pracy z organizacjami na różnych etapach rozwoju. Od wczesnej fazy, przez skalowanie, po audyty biznesowe.  Obserwacji tego, jak organizacje realnie funkcjonują, gdzie się blokują i dlaczego deklarowane modele nie przekładają się na rzeczywistość.
+Sebastian Rudnicki pracuje na styku organizacji, struktur i biznesu. Jego podejście powstało z wieloletniej pracy z organizacjami na różnych etapach rozwoju. Od wczesnej fazy, przez skalowanie, po audyty biznesowe i analizy konkurencyjności.  Obserwacji tego, jak organizacje realnie funkcjonują, gdzie się blokują i dlaczego deklarowane modele nie przekładają się na rzeczywistość.
 
 Sebastian Rudnicki jako pierwszy opisał Awenturyn w lutym 2026 jako rozwiązanie na wdrożeniową przepaść między autentycznym, funkcjonującym wewnętrznie turkusem a organizacjami zarządzanymi klasycznie i progresywnymi, bez rewolucji.
 
