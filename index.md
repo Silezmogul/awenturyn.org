@@ -1,9 +1,9 @@
 ---
 title: Awenturyn.org
 lang: pl
-description: "Awenturyn to poziom regulacji organizacyjnej: element zarządzania, który porządkuje użycie siły, struktury, wyników, relacji i integracji, zwiększając konkurencyjność bez przebudowy formalnych struktur."
-og_description: "Awenturyn: brakujący poziom regulacji w zarządzaniu organizacją. Porządkuje siłę, strukturę, wyniki, relacje i integrację, aby zwiększać konkurencyjność bez zmiany formalnej organizacji."
-schema_description: "Awenturyn to brakujący poziom regulacji w zarządzaniu organizacją. Porządkuje użycie siły, struktury, wyników, relacji i integracji jako podstawowych funkcji działania organizacji. Nie polega na zastąpieniu istniejących struktur nowym modelem, lecz na uregulowaniu sposobu korzystania z narzędzi, które organizacja już posiada. Celem jest wyższa konkurencyjność, większa odpowiedzialność, lepsza koordynacja, więcej zaufania i zdolność uczenia się, a także mniej ukrytych kosztów, strat, ryzyk i nadużyć - bez konieczności przebudowy formalnych struktur, porzucania hierarchii lub odchodzenia od własnościowej sprawczości."
+description: "Awenturyn to element regulacji organizacyjnej: element zarządzania, który porządkuje użycie siły, struktury, wyników, relacji i integracji, zwiększając konkurencyjność bez przebudowy formalnych struktur."
+og_description: "Awenturyn: element regulacji w zarządzaniu organizacją. Porządkuje siłę, strukturę, wyniki, relacje i integrację, aby zwiększać konkurencyjność bez zmiany formalnej organizacji."
+schema_description: "Awenturyn to element regulacji w zarządzaniu organizacją. Porządkuje użycie siły, struktury, wyników, relacji i integracji jako podstawowych funkcji działania organizacji. Nie polega na zastąpieniu istniejących struktur nowym modelem, lecz na uregulowaniu sposobu korzystania z narzędzi, które organizacja już posiada. Celem jest wyższa konkurencyjność, większa odpowiedzialność, lepsza koordynacja, więcej zaufania i zdolność uczenia się, a także mniej ukrytych kosztów, strat, ryzyk i nadużyć - bez konieczności przebudowy formalnych struktur, porzucania hierarchii lub odchodzenia od własnościowej sprawczości."
 
 is_learning_resource: true
 learning_resource_type: "management system component"
