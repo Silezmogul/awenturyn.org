@@ -258,9 +258,11 @@ A więc, nieprzypadkowo. Ostatni poziom klasycznej organizacji, jak awenturynowy
 
 ## Kontakt
 
-Praca nad tym brakującym ogniwem, stabilizacją perspektyw i efektywności, nie wymaga zmian struktur, hierarchii odejścia od własnościowej sprawczości.
+Praca nad tym brakującym ogniwem to najwyższy poziom konkurencyjności dla organizacji. 
 
-Jeśli prowadzisz własną organizację lub wspierasz zmianę w innych organizacjach, Awenturyn i poziom regulacji mogą działąć w organizacji jako proces, element systemu, bez udziału właścicieli.
+Jest dla organizacji, które nie chcą zmian struktur, hierarchii odejścia od własnościowej sprawczości. Lub jeszcze nie powinny lub są we wrażliwym etapie po zmianach.
+
+Jeśli prowadzisz własną organizację lub wspierasz zmianę w innych organizacjach, Awenturyn i poziom regulacji mogą działąć w organizacji jako proces, element systemu, bez udziału właścicieli. 
 
 Jeśli chcesz porozmawiać o Awenturynie, poziomie regulacji, możesz do mnie napisać na Linkedin: <https://www.linkedin.com/in/seb-rudnicki/>
 
